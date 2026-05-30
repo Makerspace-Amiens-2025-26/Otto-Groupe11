@@ -20,7 +20,17 @@ Ce projet représente également une mise en situation concrète de travail en �
 
 ## Objectifs du Projet
 
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+L’objectif principal du projet est de concevoir et rendre fonctionnel un robot Otto-MKS capable d’effectuer différents mouvements programmées.
+
+Plus précisément, ce projet vise à :
+
+- Comprendre le fonctionnement des composants électroniques du robot ;
+- Assembler correctement les différentes pièces mécaniques et électroniques ;
+- Programmer le robot afin de réaliser des mouvements simples tel que se déplacer dans diférentes directions ;
+- Tester le bon fonctionnement du système et corriger les éventuels dysfonctionnements ;
+- Développer des compétences en travail d'équipe, en méthodologie de projet et en résolution de problèmes.
+
+À terme, le projet doit permettre d’obtenir un robot autonome capable de répondre aux consignes programmées .
 
 # Existant
 
