@@ -25,8 +25,8 @@ L’objectif principal du projet est de concevoir et rendre fonctionnel un robot
 Plus précisément, ce projet vise à :
 
 - Comprendre le fonctionnement des composants électroniques du robot ;
-- Assembler correctement les différentes pièces mécaniques et électroniques ;
-- Programmer le robot afin de réaliser des mouvements simples tel que se déplacer dans diférentes directions ;
+- Assembler correctement les différentes pièces modélisé ;
+- Programmer le robot afin de réaliser des mouvements simples tel que se déplacer dans différentes directions ;
 - Tester le bon fonctionnement du système et corriger les éventuels dysfonctionnements ;
 - Développer des compétences en travail d'équipe, en méthodologie de projet et en résolution de problèmes.
 
