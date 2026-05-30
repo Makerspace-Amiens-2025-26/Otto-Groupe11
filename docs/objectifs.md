@@ -6,7 +6,9 @@ title: Objectifs du projet
 
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Dans le cadre de notre formation, nous avons réalisé un projet autour du robot Otto-MKS, un robot humanoïde éducatif conçu pour l’apprentissage de la robotique et de la programmation. Ce projet nous a permis de découvrir différentes technologies liées à l’électronique embarquée, à la fabrication numérique et au développement logiciel.
+
+Le robot Otto-MKS est une plateforme open-source permettant de programmer des déplacements, des interactions et différents comportements grâce à une carte électronique intégrant un microcontrôleur et plusieurs capteurs/actionneurs. La réalisation de ce projet a nécessité plusieurs étapes, allant de la compréhension du fonctionnement du robot jusqu’à son assemblage, sa programmation et ses tests.
 
 ## Contexte du Projet
 
