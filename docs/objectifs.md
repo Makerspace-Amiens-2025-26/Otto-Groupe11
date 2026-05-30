@@ -18,7 +18,13 @@ Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. 
 
 # Existant
 
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
+Avant le début du projet, plusieurs solutions robotiques éducatives existaient déjà sur le marché ou dans le domaine open-source. Le robot Otto-MKS s’inspire notamment du concept du robot Otto DIY, un robot éducatif conçu pour rendre la robotique accessible aux débutants.
+
+L’intérêt de cette plateforme réside dans sa simplicité de conception, son faible coût de fabrication et sa modularité. Le robot est constitué de composants standards tels que des servomoteurs, des capteurs de distance et une carte programmable, permettant une personnalisation relativement importante.
+
+Par ailleurs, de nombreux robots éducatifs similaires existent et sont, comme Otto-MKS, des robots programmables destinés à l’apprentissage du code et de la robotique. Toutefois, Otto-MKS se distingue par son approche open-source, qui permet aux utilisateurs de modifier librement le matériel et les programmes selon leurs besoins.
+
+Analyser ce qui éxistait avant permet de mieux comprendre les solutions déjà développées, leurs avantages, leurs limites et les éléments pouvant être améliorés dans le cadre de notre projet.
 
 # Cahier des Charges
 
