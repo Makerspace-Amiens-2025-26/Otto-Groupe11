@@ -32,7 +32,7 @@ Plus précisément, ce projet vise à :
 
 À terme, le projet doit permettre d’obtenir un robot autonome capable de répondre aux consignes programmées .
 
-# Existant
+## Existant
 
 Avant le début du projet, plusieurs solutions robotiques éducatives existaient déjà sur le marché ou dans le domaine open-source. Le robot Otto-MKS s’inspire notamment du concept du robot Otto DIY, un robot éducatif conçu pour rendre la robotique accessible aux débutants.
 
@@ -42,6 +42,16 @@ Par ailleurs, de nombreux robots éducatifs similaires existent et sont, comme O
 
 Analyser ce qui éxistait avant permet de mieux comprendre les solutions déjà développées, leurs avantages, leurs limites et les éléments pouvant être améliorés dans le cadre de notre projet.
 
-# Cahier des Charges
+## Cahier des Charges
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+Sur ce projet de première année, nous seront notez sur ces livrables :
+
+- Un robot fonctionnel
+- Une vidéo de 1min format portrait présentant professionnellement de notre projet
+- Le fichier OnShape de notre OTTO-MKS modifié
+- Un rapport de projet OU un site web de documentation
+- Notre participation aux Ottolympiades.
+
+
+
+
