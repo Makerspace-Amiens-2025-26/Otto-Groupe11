@@ -12,7 +12,11 @@ Le robot Otto-MKS est une plateforme open-source permettant de programmer des d�
 
 ## Contexte du Projet
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+Le projet Otto-MKS s’inscrit dans une démarche pédagogique visant à initier les étudiants aux domaines de la robotique, de la programmation et de la conception mécanique. Réalisé dans un environnement de fabrication tel que le makerspace de UniLaSalle Amiens, ce projet permet d’appliquer concrètement des notions théoriques étudiées en cours.
+
+Le robot Otto-MKS repose sur une architecture matérielle accessible et modulaire, favorisant l’apprentissage par l’expérimentation. À travers ce projet, les étudiants doivent apprendre à manipuler des composants électroniques, comprendre le fonctionnement de capteurs et actionneurs, programmer des comportements automatisés et résoudre des problématiques techniques liées à l’intégration d’un système robotisé.
+
+Ce projet représente également une mise en situation concrète de travail en équipe, de gestion de projet et de résolution de problèmes techniques.
 
 ## Objectifs du Projet
 
