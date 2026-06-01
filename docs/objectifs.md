@@ -8,7 +8,7 @@ title: Objectifs du projet
 
 Dans le cadre de notre formation, nous avons réalisé un projet autour du robot Otto-MKS, un robot éducatif conçu pour l’apprentissage de la robotique et de la programmation. Ce projet nous a permis de découvrir différentes technologies liées à l’électronique embarquée, à la fabrication numérique et au développement logiciel.
 
-Le robot Otto-MKS est un robot open-source permettant de programmer des déplacements, des interactions et différents comportements grâce à une carte électronique intégrant un microcontrôleur et plusieurs capteurs/actionneurs. La réalisation de ce projet a nécessité plusieurs étapes, allant de la compréhension du fonctionnement du robot jusqu’à son assemblage, sa programmation et ses tests.
+Le robot Otto-MKS est un robot open-source permettant de programmer des déplacements, des intéractions et différents comportements grâce à une carte électronique intégrant un microcontrôleur et plusieurs capteurs/actionneurs. La réalisation de ce projet a nécessité plusieurs étapes, allant de la compréhension du fonctionnement du robot jusqu’à son assemblage, sa programmation et ses tests.
 
 ## Contexte du Projet
 
@@ -20,17 +20,17 @@ Ce projet représente également une mise en situation concrète de travail en �
 
 ## Objectifs du Projet
 
-L’objectif principal du projet est de concevoir et rendre fonctionnel un robot Otto-MKS capable d’effectuer différents mouvements programmées.
+L’objectif principal du projet est de concevoir et de rendre fonctionnel un robot Otto-MKS capable d’effectuer différents mouvements programmés.
 
 Plus précisément, ce projet vise à :
 
-- Comprendre le fonctionnement des composants électroniques du robot ;
-- Assembler correctement les différentes pièces modélisé ;
-- Programmer le robot afin de réaliser des mouvements simples tel que se déplacer dans différentes directions ;
-- Tester le bon fonctionnement du système et corriger les éventuels dysfonctionnements ;
-- Développer des compétences en travail d'équipe, en méthodologie de projet et en résolution de problèmes.
+- Comprendre le fonctionnement des composants électroniques du robot;
+- Assembler correctement les différentes pièces modélisées;
+- Programmer le robot afin de réaliser des mouvements simples tel que se déplacer dans différentes directions;
+- Tester le bon fonctionnement du système et corriger les éventuels dysfonctionnements;
+- Développer des compétences en travail d'équipe, en méthodologie de projets et en résolution de problèmes.
 
-À terme, le projet doit permettre d’obtenir un robot autonome capable de répondre aux consignes programmées .
+À terme, le projet doit permettre d’obtenir un robot autonome capable de répondre aux consignes programmées.
 
 ## Existant
 
@@ -44,10 +44,10 @@ Analyser ce qui éxistait avant permet de mieux comprendre les solutions déjà 
 
 ## Cahier des charges
 
-Sur ce projet de première année, nous seront notez sur ces livrables :
+Sur ce projet de première année, nous serons notés sur ces livrables :
 
 - Un robot fonctionnel
-- Une vidéo de 1min format portrait présentant professionnellement de notre projet
+- Une vidéo de 1 minutes format portrait présentant professionnellement de notre projet
 - Le fichier OnShape de notre OTTO-MKS modifié
 - Un rapport de projet OU un site web de documentation
 - Notre participation aux Ottolympiades.
