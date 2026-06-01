@@ -4,7 +4,7 @@ nav_order: 5
 title: Conception et prototypage
 ---
 
-# Conception et prototypage
+# Conception et Prototypage
 
-Pour la conseption de notre robot otto nous avons opté pour de petites modifications en fonction des épreuves des Ottolympiades tout en gardant principalement le modèle de base 
+Pour la conception de notre robot OTTO, nous avons opté pour de légères modifications en fonction des épreuves des Ottolympiades tout en gardant principalement le modèle de base.
 
