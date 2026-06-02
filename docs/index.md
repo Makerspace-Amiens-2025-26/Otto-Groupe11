@@ -14,14 +14,6 @@ Bienvenue dans la documentation du robot OTTO du groupe 11 : Sevra MVINZOU et Ti
 
 [Notre repo GitHub](https://github.com/Makerspace-Amiens-2025-26/Otto-Groupe11/tree/main/docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-
-## À propos du Projet
-
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
-
-L'objectif du projet 
-
-
 ## Vidéo
 
 Ici vous publierez la vidéo de votre projet. 
