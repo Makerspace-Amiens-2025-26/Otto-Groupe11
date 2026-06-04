@@ -21,9 +21,9 @@ REGLES DE CONCEPTION :
 Dimensions :
 
 Premièrement, Notre robot devait tenir, actionneurs déployés au maximum, dans un volume de :
-Largeur : 150 mm
-Longueur : 150 mm
-Hauteur : 200 mm
+- Largeur : 150 mm
+- Longueur : 150 mm
+- Hauteur : 200 mm
 Pour valider cette règle, notre robot devait rentrer dans une boîte aux bonnes dimensions.
 
 Déplacement :
@@ -61,6 +61,9 @@ L’utilisation de l’intelligence artificielle n’était pas interdite ; mais
 Arbitrage :
 
 L’arbitre s’est engagé a avoir connaissance du règlement, durant les phases de match, sa position et ses décisions devaient donc être respectées.
+
+
+##
 
 
 
