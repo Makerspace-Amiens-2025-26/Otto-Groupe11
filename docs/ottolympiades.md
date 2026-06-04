@@ -75,8 +75,6 @@ Plus tard dans la journée, l'équipe modifia le programme d'Otto-BDS dans le ca
 
 Cette modification allait finalement avoir un impact bien plus important que prévu.
 
-Une dernière tentative fut alors réalisée sur la course d'obstacles.
-
 ## 🔥 Le run parfait
 
 Après les modifications réalisées pour le Chrono Challenge, une dernière tentative fut effectuée sur la course d'obstacles.
