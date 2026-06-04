@@ -33,5 +33,7 @@ Pour la conception de notre robot OTTO, nous avons opté pour de légères modif
 
 ### bras
 
+## Choix techniques
+
 
 
