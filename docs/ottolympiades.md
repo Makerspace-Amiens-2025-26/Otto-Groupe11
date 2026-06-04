@@ -16,11 +16,9 @@ Un socle de règles est commun à toutes les épreuves, et notre robot devait, a
 ## Règlements
 
 HOMOLOGATION :
-
-[Homologation](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/homologation/)
+- [Homologation](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/homologation/)
 
 EPREUVES :
-
 - [Chrono challenge](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/chrono_race/)
 - [Course d'obstacle](http://makerspace-amiens.fr/otto-mks/docs/ottolympiades/obstacle_course/)
 - [Otto Sumo](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/sumo/)
