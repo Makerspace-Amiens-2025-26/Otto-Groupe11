@@ -42,7 +42,8 @@ Pour cette épreuve on devait juste parcourir un piste verticale le plus rapidem
 Quand nous avons commencé cette épreuve nous avons fait 30.7 seconde apres seulement 2 essais et personne n'a plus nous rattraper pendant la quasi-totalité des Ottolympiades, mais nos plus grand rivaux Les Tigres nous ont dépassé de 6 centième de seconde avec un score de 30.1 seconde. On ne pouvait pas se faire battre trois fois par le meme groupe alors on tout fais pour repassé devant mais on arrivait toujours pas a les dépasser meme apres plusieurs éssais. C'est seulement apres avoir qu'on ait changer le programme a l'épreuve du chrono challenge que nous avons retenté pour la dernière fois la course d'obstacle et contre toutes attente on a pulvérisé la record en faisant un score de 15 seconde et en se hissant a la premiere place. 
 
 ### Remise des prix
-A la fin de toutes ces épreuves il y a eu un rassemblement de toutes les équipes pour assister au épreuves finales : Le tire 
+A la fin de toutes ces épreuves il y a eu un rassemblement de toutes les équipes pour assister au tire à la corde, à la demi-finale et a la finale des Otto-sumo 
+Pour le tire a lacorde c'est l'équipe composé de minitto, OttoJäger et OttoBrico qui a remporté cette épreuve et pour les Otto-sumo c'est sans surprise minitto qui a remporté celle-ci. Pour la remise des prix nous avons obtenu 2 trophée : la deuxième place de chrono challenge et la première place de la course d'obstacle. On l'a peut être dit beaucoup dee fois mais à la base on ne s'attendait a rien avant que la compétiution débute alors le fait de ramporté 2 est une grande victoire pour nous. Merci a notre Otto qui a su nous rendre fier.
 
 
 
