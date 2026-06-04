@@ -17,14 +17,14 @@ Un socle de règles est commun à toutes les épreuves, et notre robot devait, a
 
 HOMOLOGATION :
 
-[Homologation](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/homologation/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Homologation](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/homologation/)
 
 EPREUVES :
 
-- [Chrono challenge](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/chrono_race/){: .btn .fs-5 .mb-4 .mb-md-0 }
-- [Course d'obstacle](http://makerspace-amiens.fr/otto-mks/docs/ottolympiades/obstacle_course/){: .btn .fs-5 .mb-4 .mb-md-0 }
-- [Otto Sumo](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/sumo/){: .btn .fs-5 .mb-4 .mb-md-0 }
-- [Tire à la corde](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/tir_a_la_corde/){: .btn .fs-5 .mb-4 .mb-md-0 }
+- [Chrono challenge](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/chrono_race/)
+- [Course d'obstacle](http://makerspace-amiens.fr/otto-mks/docs/ottolympiades/obstacle_course/)
+- [Otto Sumo](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/sumo/)
+- [Tire à la corde](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/tir_a_la_corde/)
 
 
 
