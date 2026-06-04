@@ -28,23 +28,315 @@ EPREUVES :
 - [Tire à la corde](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/tir_a_la_corde/)
 
 
-## L'histoire de Otto-BDS
+# 🤖 L'histoire de Otto-BDS
 
-Cette histoire débute avec un tout petit robot dont personne ne faisait attention et dont même les créateurs ne croyaient aucunement en lui. Cependant, malgré le manque d'attention et le manque confiance à son égard, ce petit robot garda la tête haute et choqua tout le monde dont ses propre créateurs dès son entré. Nous allons donc voir enssemble, le parcours de ce vaillant robot donc personne ne croyait mais qui a su atteindre les sommets de certaines épreuves. Pour se faire, nous allons dans un premier temps parler de l'épreuve de l'otto sumo, ensuite nous évoqurons l'epreuve du chrono challenge, Puis nous vous raconterons comment s'est passé l'épreuve de la course d'obstacle, Et enfin nous conclueront avec la remise des prix.
+Cette histoire débute avec un tout petit robot auquel personne ne prêtait vraiment attention et en lequel même ses créateurs ne croyaient pas totalement.
 
-### Otto-sumo :
-Lors de cette épreuve tout les participant devais affronter 5 adversaires différent et gagner le plus de point possible. Les adversaires que notre robot devait afronté étaient : La Grinta, Yotoshi, OttoMan, Les Tigres et OttoBrico. Le premier combat était plutôt simple car le robot d'en face était était inactif et que nous avons du affronter à la place le robot du makerspace qui était conçu pour permettre au participant de gagner des point facile nous nous sommes donc issé à la première place dès le début. Nous avons ensuite affronté Yotoshi qui était un robot plutot puissant car il avait un gadget au millieu du corp lui permettant de reppousser les adversaires en arrière jusqu'a les faire tomber en dehors du terrain. Honnetement nous pensons que nous allions perdre mais notre ami Otto-BDS nous à prouvé le contraire et a su contourné yotoshi pour le prendre de revère et le faire tombé. Aprés cela nous avons appris que si on faisait une dance au début on gagnerait plus de point en on a donc programmé une pour notre petit robot afin de pouvoir maximiser nos chances de nous qualifier. Pour ce troisième combat nous avons affronté OttoMan, un combat qui s'est terminé en un éclair. Dès que les robots se sont ente-choqué, OttoMan a été explusé d'un coup en dehors du terrain et a éxplosé (paix à son âme), se qui nous amène à une troisième victoire consécutive. A cet instant nous nous sommes immédiatement dis que l'on avait une chance de rester les premiers mais le quatrième combat contre les tigres arriva. On a débuté ce combat avec beaucoup d'assurence mais le robot d'en face était beaucoup trop rapide pour qu'on le repousse comme les autres et a fini par nous battre. Ce fut un gros coup dur pour notre équipe qui pensait pouvoir gagner cette épreuve haut la main, mais nous nous somme ressaisi car il restait un combat contre OttoBrico qui lui avais comme une pelle lui permettant de propulser ses adversaires afin de les faire tomber en arrière. Ce combat était très important car le vainqueur atteindrait la deuxième place et se qualifierait pour les demi-finales. On à décidé avec les arbitre et l'équipe adverse de faire un BO3 pour déterminer le vainqueur de ce combat mais malheureuseument nous avons perdu se BO3 avec un score de 2-1 pour OttoBrico. Apres ces cinq combat nous avons fini quatrième ex aequo avec Minitto un robot extremement puissant qui pouvait pousser les robots adverse en leur donant des coups de points et qui pouvait s'acrocher au sol grace a des ventouses installé sous ses pieids. La seule raison pour laquelle il s'est ratrouvé quatrième est que, son créateur, Lapeyronnie Paul, ne pouvais pas se connecter à son robot et a donc perdu s'est deux premiers combats, mais apres avoir réglé son problème il a battu sans dificulté ses trois adversaires suivants. Le problème était que pour accéder au demi final on devait battre se robot surpuissant. Spoiler, on s'est fait battre à plate couture, on est donc déscendu à la cinquième place et nous n'avons pas pu participer au demi-final. Nous sommes fière de notre robot et du chemin que nous avons parcouru avec lui, on ne sait jamais douté qu'il puisse gagner un combat avant le début des Ottolympiades donc finir cinquième sur les 16 groupe qui participait à cette compétition ce n'est pas si mal.
+Pourtant, malgré le manque d'attention et de confiance à son égard, ce petit robot a gardé la tête haute et a surpris tout le monde, y compris ses propres créateurs, dès son entrée en compétition.
 
-### Chrono challenge
-Pour cette épreuve on devait juste parcourir un piste verticale le plus rapidement possible. La grande différence entre cette épreuve et celle du sumo est qu'il n'y avait pas de compétitions direct, on pouvait passer quand voulais avec un nombre d'essais illimité. Il n'y avait donc pas de stresse concernant le fait de tout miser sur une épreuvemais il y avait quand meme un classement pour le temps de chaques participant. Au début nous avions décidé de ne pas faire beaucoup d'essais car il y avait encore des matchs de sumo à ce moment la donc apres trois essais on s'est arreté et notre score était de 30 seconde. On était deuxieme dans le classement derrière Les Tigres qui eu avait fait 11 seconde. Ce robot était tellement rapide qu'il à dépassé le record de l'année dernière qui était de 15 secondes. Nous avons donc laissé tombé l'idée de finir premier et nous nous sommes contanté de la deuxième place qui était deja bien. Après la compétition de sumo beaucoup de personne on essayé de faire cette épreuve et quelque personne sont passé devant nous, on était passé de deuxième à cinquième. Le problème s'était que notre robot ne pouvais pas aller plus vite que ça. Nous avons donc décider de modifié le programme de notre robot pour qu'il devienne plus rapide ce qui n'a pas été de tout repos (voir parti programmation), après voir modifié le programme nous avons retenté notre chance et les résultat étaient assez surprenant, nous sommes passé de cinquième à toisième avec un score de 18.5 seconde après un seul essais. Nous savions que atteindre la première place aurait trop compliqué mais la deuxième place était largement faisable car le score était de 18.1 seconde pour OttoMan. Après plusieur éssais nous avons pu prendre la deuxième place avec un score de 17.9 seconde et nous nous sommes mis d'accord sur le fait que cela nous suffisait et qu'il n'y avait pas besoin d'en faire plus et aucun groupe derrière nous n'a pu faire mieux.
+Au fil des Ottolympiades, Otto-BDS est passé du statut d'outsider à celui de véritable concurrent capable de rivaliser avec les meilleurs robots de la compétition.
 
-### Course d'obstacle
-Quand nous avons commencé cette épreuve nous avons fait 30.7 seconde apres seulement 2 essais et personne n'a plus nous rattraper pendant la quasi-totalité des Ottolympiades, mais nos plus grand rivaux Les Tigres nous ont dépassé de 6 centième de seconde avec un score de 30.1 seconde. On ne pouvait pas se faire battre trois fois par le meme groupe alors on tout fais pour repassé devant mais on arrivait toujours pas a les dépasser meme apres plusieurs éssais. C'est seulement apres avoir qu'on ait changer le programme a l'épreuve du chrono challenge que nous avons retenté pour la dernière fois la course d'obstacle et contre toutes attente on a pulvérisé la record en faisant un score de 15 seconde et en se hissant a la premiere place. 
+Dans cette partie, nous allons retracer son parcours à travers les différentes épreuves :
 
-### Remise des prix
-A la fin de toutes ces épreuves il y a eu un rassemblement de toutes les équipes pour assister au tire à la corde, à la demi-finale et a la finale des Otto-sumo 
-Pour le tire a lacorde c'est l'équipe composé de minitto, OttoJäger et OttoBrico qui a remporté cette épreuve et pour les Otto-sumo c'est sans surprise minitto qui a remporté celle-ci. Pour la remise des prix nous avons obtenu 2 trophée : la deuxième place de chrono challenge et la première place de la course d'obstacle. On l'a peut être dit beaucoup dee fois mais à la base on ne s'attendait a rien avant que la compétiution débute alors le fait de ramporté 2 est une grande victoire pour nous. Merci a notre Otto qui a su nous rendre fier.
+- 🥊 Otto-Sumo
+- ⏱️ Chrono Challenge
+- 🚧 Course d'obstacles
+- 🏆 Remise des prix
 
+---
+
+# 🥊 Otto-Sumo
+
+Lors de cette épreuve, chaque participant devait affronter cinq adversaires différents afin de récolter le plus de points possible.
+
+Les adversaires d'Otto-BDS étaient :
+
+- La Grinta
+- Yotoshi
+- OttoMan
+- Les Tigres
+- OttoBrico
+
+## ⚔️ Premier combat : La Grinta
+
+Le premier combat fut plutôt simple.
+
+Le robot adverse étant inactif, l'équipe a finalement affronté le robot du Makerspace, spécialement conçu pour permettre aux participants de gagner facilement quelques points.
+
+**Résultat : victoire.**
+
+Grâce à ce succès, Otto-BDS s'est immédiatement hissé à la première place du classement.
+
+---
+
+## ⚔️ Deuxième combat : Yotoshi
+
+Le deuxième adversaire était déjà beaucoup plus impressionnant.
+
+Yotoshi possédait un mécanisme installé au centre de son corps lui permettant de repousser ses adversaires jusqu'à les faire sortir du terrain.
+
+Honnêtement, peu de personnes imaginaient Otto-BDS remporter ce combat.
+
+Pourtant, contre toute attente, il a réussi à contourner son adversaire avant de le prendre de vitesse et de l'expulser de l'arène.
+
+**Résultat : victoire.**
+
+À ce moment-là, Otto-BDS totalisait déjà deux victoires consécutives.
+
+---
+
+## 💃 Une petite danse pour gagner des points
+
+Entre deux combats, l'équipe apprit qu'une danse réalisée avant le début d'un match rapportait des points supplémentaires.
+
+Une petite chorégraphie fut donc programmée afin d'augmenter les chances de qualification.
+
+Après tout, chaque point comptait.
+
+---
+
+## ⚔️ Troisième combat : OttoMan
+
+Le combat contre OttoMan restera probablement comme le plus rapide de toute la journée.
+
+Dès que les deux robots se sont percutés, OttoMan a été projeté hors du terrain et s'est littéralement désintégré.
+
+*Paix à son âme.*
+
+**Résultat : victoire.**
+
+Troisième victoire consécutive.
+
+À ce stade, l'idée de terminer premiers commençait sérieusement à sembler possible.
+
+---
+
+## ⚔️ Quatrième combat : Les Tigres
+
+Puis arriva le combat contre Les Tigres.
+
+L'équipe abordait cette rencontre avec beaucoup de confiance, mais le robot adverse s'est révélé extrêmement rapide.
+
+Contrairement aux précédents adversaires, il était presque impossible de le repousser.
+
+Après plusieurs échanges, Otto-BDS s'est finalement incliné.
+
+**Résultat : défaite.**
+
+Cette défaite fut un véritable coup dur, car l'équipe commençait à rêver d'une victoire dans cette épreuve.
+
+---
+
+## ⚔️ Cinquième combat : OttoBrico
+
+Le dernier combat était probablement le plus important.
+
+OttoBrico possédait une sorte de pelle lui permettant de soulever et de projeter ses adversaires vers l'arrière.
+
+L'enjeu était simple :
+
+> Le vainqueur terminerait deuxième et décrocherait sa place pour les demi-finales.
+
+Avec l'accord des arbitres et de l'équipe adverse, le combat fut transformé en **BO3 (Best of Three)**.
+
+Après trois manches très disputées, OttoBrico s'est imposé.
+
+**Résultat : défaite (2-1).**
+
+---
+
+## 🏅 Classement final du Otto-Sumo
+
+À l'issue des cinq combats, Otto-BDS termina **4ᵉ ex æquo** avec Minitto.
+
+Minitto était sans doute l'un des robots les plus impressionnants de la compétition :
+
+- coups de poing puissants ;
+- excellente traction ;
+- ventouses sous les pieds lui permettant de rester solidement accroché au sol.
+
+Son mauvais départ était uniquement dû à un problème de connexion rencontré par son créateur, Lapeyronnie Paul.
+
+Une fois le problème résolu, il remporta facilement ses trois combats suivants.
+
+Malheureusement, pour accéder aux demi-finales, Otto-BDS devait battre ce monstre mécanique.
+
+### ⚰️ Le combat de trop
+
+Spoiler :
+
+**Otto-BDS s'est fait battre à plate couture.**
+
+Cette défaite fit reculer l'équipe à la **5ᵉ place finale**.
+
+Malgré cela, le bilan restait largement positif.
+
+Avant le début des Ottolympiades, personne dans l'équipe n'imaginait voir Otto-BDS gagner le moindre combat.
+
+Terminer **5ᵉ sur 16 équipes** représentait déjà une très belle performance.
+
+---
+
+# ⏱️ Chrono Challenge
+
+L'objectif de cette épreuve était simple :
+
+> Parcourir une piste verticale le plus rapidement possible.
+
+Contrairement au sumo, les participants pouvaient effectuer autant de tentatives qu'ils le souhaitaient.
+
+## 🚀 Un bon départ
+
+Comme les combats de sumo étaient encore en cours, seulement trois essais furent réalisés.
+
+Résultat :
+
+**30 secondes.**
+
+À la surprise générale, ce temps permettait à Otto-BDS de prendre la **2ᵉ place provisoire**.
+
+Seuls Les Tigres faisaient mieux avec un impressionnant chrono de **11 secondes**, battant au passage le record de l'année précédente fixé à 15 secondes.
+
+## 📉 Une chute au classement
+
+Après la fin du tournoi de sumo, de nombreuses équipes se concentrèrent sur le Chrono Challenge.
+
+Peu à peu, plusieurs robots dépassèrent Otto-BDS.
+
+Le classement passa alors :
+
+**2ᵉ ➜ 5ᵉ place**
+
+Le problème était simple : le robot semblait avoir atteint sa vitesse maximale.
+
+## 💻 La modification décisive
+
+L'équipe décida alors de modifier le programme du robot afin de le rendre plus rapide.
+
+Cette étape ne fut pas de tout repos (voir partie programmation).
+
+Une fois les modifications terminées, Otto-BDS reprit la piste.
+
+Le résultat fut immédiat :
+
+**18,5 secondes dès le premier essai.**
+
+Cette amélioration permit de remonter directement à la **3ᵉ place**.
+
+## 🥈 La remontée
+
+La première place semblait inaccessible.
+
+En revanche, la deuxième place occupée par OttoMan avec **18,1 secondes** paraissait atteignable.
+
+Après plusieurs tentatives supplémentaires, Otto-BDS réalisa finalement :
+
+### 🎉 17,9 secondes
+
+Ce temps permit à l'équipe de récupérer la **2ᵉ place définitive**.
+
+Aucune autre équipe ne réussit à faire mieux par la suite.
+
+---
+
+# 🚧 Course d'obstacles
+
+Lorsque cette épreuve débuta, Otto-BDS réalisa un temps de :
+
+### ⏱️ 30,7 secondes
+
+... après seulement deux essais.
+
+Pendant presque toute la compétition, personne ne réussit à battre ce score.
+
+Puis, comme souvent au cours de cette journée, Les Tigres firent leur apparition.
+
+Avec un temps de **30,1 secondes**, ils prirent la tête du classement.
+
+## 😤 Hors de question de perdre encore
+
+Après les défaites subies face aux Tigres lors des précédentes épreuves, il était hors de question de leur laisser une nouvelle victoire.
+
+L'équipe multiplia les tentatives.
+
+Encore et encore.
+
+Mais le résultat restait le même :
+
+**Les Tigres demeuraient devant.**
+
+## 🔥 Le run parfait
+
+Après les modifications réalisées pour le Chrono Challenge, une dernière tentative fut effectuée sur la course d'obstacles.
+
+Et contre toute attente...
+
+### 💥 15 secondes
+
+Le précédent record fut pulvérisé.
+
+Otto-BDS reprit immédiatement la première place du classement.
+
+Cette fois, personne ne réussit à le rattraper.
+
+---
+
+# 🏆 Remise des prix
+
+Une fois toutes les épreuves terminées, l'ensemble des équipes se rassembla pour assister :
+
+- au tir à la corde ;
+- aux demi-finales du Otto-Sumo ;
+- à la grande finale.
+
+## 🪢 Tir à la corde
+
+La victoire revint à l'équipe composée de :
+
+- Minitto
+- OttoJäger
+- OttoBrico
+
+## 👑 Finale du Otto-Sumo
+
+Sans grande surprise, Minitto remporta également l'épreuve du Otto-Sumo.
+
+## 🏅 Les récompenses de Otto-BDS
+
+Au moment de la remise des prix, l'équipe repartit avec deux trophées :
+
+| Épreuve | Résultat |
+|----------|----------|
+| ⏱️ Chrono Challenge | 🥈 2ᵉ place |
+| 🚧 Course d'obstacles | 🥇 1ʳᵉ place |
+
+---
+
+# 📊 Bilan des Ottolympiades
+
+| Épreuve | Classement |
+|----------|----------|
+| 🥊 Otto-Sumo | 5ᵉ place |
+| ⏱️ Chrono Challenge | 2ᵉ place |
+| 🚧 Course d'obstacles | 1ʳᵉ place |
+
+---
+
+# ❤️ Conclusion
+
+Lorsque les Ottolympiades ont commencé, l'équipe n'avait aucune attente particulière.
+
+L'objectif était simplement de participer, de découvrir les différentes épreuves et de passer un bon moment.
+
+Pourtant, au fil de la journée, Otto-BDS a dépassé toutes les attentes.
+
+Entre les victoires inattendues en sumo, les optimisations de dernière minute et le record pulvérisé lors de la course d'obstacles, ce petit robot a prouvé qu'il pouvait rivaliser avec les meilleurs.
+
+Au final, l'équipe repart avec deux trophées et une multitude de souvenirs.
+
+Pas mal pour un robot auquel personne ne croyait vraiment au départ.
+
+**Merci Otto-BDS de nous avoir rendus fiers. 🤖❤️**
 
 
 
