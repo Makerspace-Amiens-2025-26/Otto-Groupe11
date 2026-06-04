@@ -4,7 +4,7 @@ nav_order: 3
 title: Objectifs du projet
 ---
 
-# 🤖 Introduction
+# Introduction
 
 À première vue, le projet Otto-MKS pouvait sembler simple : assembler un robot et apprendre à le programmer. Pourtant, il s’est rapidement transformé en un véritable défi mêlant robotique, électronique, mécanique et développement logiciel.
 
