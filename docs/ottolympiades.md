@@ -15,7 +15,7 @@ Un socle de règles est commun à toutes les épreuves, et notre robot devait, a
 
 ## Règlements
 
-[Homologation]([https://github.com/Makerspace-Amiens-2025-26/Otto-Groupe11/tree/main/docs](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/homologation/)){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Homologation]([https://github.com/Makerspace-Amiens-2025-26/Otto-Groupe11/tree/main/docs](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/homologation/){: .btn .fs-5 .mb-4 .mb-md-0 }
 REGLES DE CONCEPTION :
 
 
