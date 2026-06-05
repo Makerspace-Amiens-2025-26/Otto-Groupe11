@@ -15,7 +15,7 @@ Pour la conception de notre robot OTTO, nous avons opté pour de légères modif
 
 ### Tête
 
-### Corp
+### Corps
 
 ### Jambes
 
@@ -27,11 +27,11 @@ Pour la conception de notre robot OTTO, nous avons opté pour de légères modif
 ### Tutu
 
 
-## Pièce modélisé mais non utilisé
+## Pièce modélisée mais non utilisée
 
-### Haut du corp
+### Haut du corps
 
-### bras
+### Bras
 
 ## Choix techniques
 
