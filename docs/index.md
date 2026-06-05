@@ -13,11 +13,6 @@ Bienvenue dans la documentation du robot OTTO du groupe 11 : Sevra MVINZOU et Ti
 
 [Notre repo GitHub](https://github.com/Makerspace-Amiens-2025-26/Otto-Groupe11/tree/main/docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY](https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY"(https://cad.onshape.com/documents/af9b9e9c831b52c05a49dbf1/w/7f32cc2420e38c86ae9e7e0d/e/d68ff6d9df9aea0293392de8?renderMode=0&uiState=6a22fd33566a989e9b05ed0a)" frameborder="0"></iframe>
-
-{: .warning }
->Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
-
 
 ## Vidéo
 
