@@ -32,6 +32,11 @@ Ces modifications ont porté leurs fruits puisque notre temps est passé d'envir
 
 Cette optimisation a également eu un impact positif sur la course d'obstacles, où Otto-BDS a finalement remporté la première place avec un temps record de **15 secondes**.
 
+## Fonction de marche avant modifié
+
+<img width="546" height="536" alt="image" src="https://github.com/user-attachments/assets/4596dd94-b9c2-4369-8b15-a7bd071840e5" />
+
+
 ---
 
 # Fonctions principales
@@ -66,7 +71,8 @@ Pour certaines épreuves, il était indispensable que le robot puisse s'orienter
 
 Cette fonction permet à Otto-BDS d'effectuer une rotation vers la gauche afin d'ajuster sa trajectoire ou de se réaligner sur un parcours.
 
-<img width="352" height="433" alt="Rotation gauche" src="https://github.com/user-attachments/assets/65535bb9-f476-4098-b18a-9002c4b7f533" />
+<img width="444" height="499" alt="tourne_g" src="https://github.com/user-attachments/assets/3f25517f-6d26-4844-bef1-6e86ce9961b8" />
+
 
 ---
 
@@ -76,7 +82,8 @@ Cette fonction est similaire à la précédente mais permet une rotation dans le
 
 Elle était particulièrement utile lorsque le robot déviait légèrement de sa trajectoire.
 
-"C:\Users\sevra\Downloads\tourne_d.png"
+<img width="449" height="495" alt="tourne_d" src="https://github.com/user-attachments/assets/e984f5be-f1e4-49b1-bdee-7f38a9cf934d" />
+
 
 ---
 
@@ -86,7 +93,8 @@ Cette fonction permet au robot de jouer une petite mélodie grâce à son buzzer
 
 Même si elle n'améliore pas directement les performances du robot, elle apporte un aspect plus vivant et interactif à Otto-BDS.
 
-"C:\Users\sevra\Downloads\mélodie.png"
+<img width="426" height="133" alt="mélodie" src="https://github.com/user-attachments/assets/492216f2-20ac-4e04-88d9-c6cb921ac774" />
+
 
 ---
 
