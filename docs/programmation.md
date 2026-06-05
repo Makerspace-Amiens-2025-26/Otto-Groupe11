@@ -34,9 +34,9 @@ Nous allons vous montrer ici les parties du programme qui nous ont permis de ren
 
 <img width="352" height="433" alt="image" src="https://github.com/user-attachments/assets/b6ae449f-081a-420c-bb5d-2026002fd21d" />
 
-### Fonction pour faire une dance de combat
+### Fonction pour faire une petite dance 
 
-<img width="352" height="433" alt="image" src="https://github.com/user-attachments/assets/854a1a60-2b04-458c-a0ee-84e52be6b2c0" />
+<img width="370" height="535" alt="image" src="https://github.com/user-attachments/assets/1b1d8214-ff88-42a3-a91b-d809ef7f50a6" />
 
 
 
