@@ -14,13 +14,20 @@ Pour la partie arduino, notre objectif était de faire aller le robot le plus vi
 
 Nous allons vous montrer ici les parties du programme qui nous ont permis de rendre notre robot opérationnel
 
-### Fonction marche avant
+### Fonction pour la marche avant
 
 <img width="544" height="537" alt="Marche_avant" src="https://github.com/user-attachments/assets/f8479dc7-f620-4e2f-8559-6a722f5571ae" />
 
-### Fonction marche arrière
+### Fonction pour la marche arrière
 
 <img width="452" height="532" alt="Marche_arrière" src="https://github.com/user-attachments/assets/65535bb9-f476-4098-b18a-9002c4b7f533" />
+
+### Fonction pour la tourner à gauche
+
+<img width="352" height="433" alt="image" src="https://github.com/user-attachments/assets/38c0c0b9-322a-4d92-a31a-6dc639efccee" />
+
+### Fonction pour 
+
 
 
 
