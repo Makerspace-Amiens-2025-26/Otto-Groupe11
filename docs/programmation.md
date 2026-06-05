@@ -105,9 +105,10 @@ Cette optimisation a également eu un impact positif sur la course d'obstacles, 
 
 ## Fonction de marche avant modifié
 
+Nous avons décidé de diminuer le délai afin de réduire le laps de temps entre l’exécution des mouvements de marche avant, de manière à ce que le robot puisse se déplacer plus rapidement. Cependant, pour que cela soit efficace, nous devions baisser l’amplitude du mouvement de la jambe gauche, car plus la vitesse de mouvement augmentait, plus le robot se déplaçait vers la droite. Il fallait donc ajuster du mieux possible la jambe gauche afin que le robot se déplace le plus droit possible.
+
 <img width="546" height="536" alt="image" src="https://github.com/user-attachments/assets/4596dd94-b9c2-4369-8b15-a7bd071840e5" />
 
-Nous avons décidé de diminuer le délai afin de réduire le laps de temps entre l’exécution des mouvements de marche avant, de manière à ce que le robot puisse se déplacer plus rapidement. Cependant, pour que cela soit efficace, nous devions baisser l’amplitude du mouvement de la jambe gauche, car plus la vitesse de mouvement augmentait, plus le robot se déplaçait vers la droite. Il fallait donc ajuster du mieux possible la jambe gauche afin que le robot se déplace le plus droit possible.
 ---
 
 # Conclusion
