@@ -39,7 +39,7 @@ Afin de rendre notre robot opérationnel nous avons codé quelques fonctions pri
 <img width="370" height="535" alt="image" src="https://github.com/user-attachments/assets/1b1d8214-ff88-42a3-a91b-d809ef7f50a6" />
 
 
-# conclution  
+# conclusion  
 
 Voici donc les principales fonctions qui ont fait de notre Otto-BDS le robot exceptionnel qu'il est devenu aujourd'hui 
 
