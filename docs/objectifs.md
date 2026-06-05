@@ -14,7 +14,7 @@ Au-delà de l’aspect compétitif, ce projet nous a permis de découvrir la rob
 
 ---
 
-# 🎯 Contexte du projet
+# Contexte du projet
 
 Le projet Otto-MKS s’inscrit dans une démarche pédagogique visant à initier les étudiants aux domaines de la robotique, de la programmation et de la conception mécanique.
 
@@ -31,7 +31,7 @@ Ce projet constitue également une nouvelle expérience de gestion de projet et 
 
 ---
 
-# 🎯 Objectifs du projet
+# Objectifs du projet
 
 L’objectif principal du projet est de concevoir, assembler et programmer un robot Otto-MKS capable de participer aux Ottolympiades.
 
@@ -48,7 +48,7 @@ Plus précisément, ce projet vise à :
 
 ---
 
-# 🔍 Existant
+# Existant
 
 Avant le début du projet, plusieurs solutions robotiques éducatives existaient déjà.
 
@@ -65,14 +65,14 @@ L’analyse de l’existant nous a permis de mieux comprendre les choix techniqu
 
 ---
 
-# 📋 Cahier des charges
+# Cahier des charges
 
 Dans le cadre de ce projet de première année, plusieurs livrables étaient attendus :
 
-- 🤖 Un robot fonctionnel ;
-- 🎥 Une vidéo d’une minute au format portrait présentant le projet ;
-- 🛠️ Le fichier OnShape modifié du Otto-MKS ;
-- 📖 Un rapport de projet ou un site de documentation ;
-- 🏆 Une participation aux Ottolympiades.
+- Un robot fonctionnel ;
+- Une vidéo d’une minute au format portrait présentant le projet ;
+- Le fichier OnShape modifié du Otto-MKS ;
+- Un rapport de projet ou un site de documentation ;
+- Une participation aux Ottolympiades.
 
 Ces livrables ont pour objectif de valider nos compétences en conception, programmation et présentation de projet.
