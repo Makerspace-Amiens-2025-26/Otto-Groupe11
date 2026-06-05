@@ -4,7 +4,7 @@ nav_order: 3
 title: Programmation
 ---
 
-# 💻 Programmation
+# Programmation
 
 ## Contexte du programme
 
@@ -18,11 +18,11 @@ Cependant, nous avons rencontré plusieurs difficultés lors du développement. 
 
 Après de nombreux essais, nous avons constaté que certains servomoteurs n'avaient pas exactement le même comportement, ce qui rendait difficile l'obtention d'une trajectoire parfaitement droite.
 
-> 💡 Si votre robot rencontre le même problème, n'hésitez pas à remplacer les servomoteurs concernés ou à développer une fonction de correction de trajectoire plus avancée.
+> Si votre robot rencontre le même problème, n'hésitez pas à remplacer les servomoteurs concernés ou à développer une fonction de correction de trajectoire plus avancée.
 
 ---
 
-# 🚀 Optimisation avant les Ottolympiades
+# Optimisation avant les Ottolympiades
 
 Au cours de la compétition, nous nous sommes rapidement rendu compte que notre robot n'était pas suffisamment rapide pour conserver sa place dans le classement du Chrono Challenge.
 
@@ -34,13 +34,13 @@ Cette optimisation a également eu un impact positif sur la course d'obstacles, 
 
 ---
 
-# ⚙️ Fonctions principales
+# Fonctions principales
 
 Afin de rendre notre robot opérationnel, nous avons développé plusieurs fonctions essentielles à son fonctionnement.
 
 ---
 
-## 🚶 Fonction de marche avant
+## Fonction de marche avant
 
 Cette fonction constitue la base du déplacement du robot.
 
@@ -50,7 +50,7 @@ Elle permet de synchroniser les mouvements des jambes et des pieds afin de faire
 
 ---
 
-## 🔙 Fonction de marche arrière
+## Fonction de marche arrière
 
 Cette fonction reprend le même principe que la marche avant mais en inversant les mouvements des servomoteurs.
 
@@ -60,7 +60,7 @@ Elle permet notamment de repositionner rapidement le robot ou de reculer face à
 
 ---
 
-## ↩️ Fonction de rotation vers la gauche
+## Fonction de rotation vers la gauche
 
 Pour certaines épreuves, il était indispensable que le robot puisse s'orienter rapidement.
 
@@ -70,7 +70,7 @@ Cette fonction permet à Otto-BDS d'effectuer une rotation vers la gauche afin d
 
 ---
 
-## ↪️ Fonction de rotation vers la droite
+## Fonction de rotation vers la droite
 
 Cette fonction est similaire à la précédente mais permet une rotation dans le sens opposé.
 
@@ -80,7 +80,7 @@ Elle était particulièrement utile lorsque le robot déviait légèrement de sa
 
 ---
 
-## 🎵 Fonction de lecture d'une mélodie
+## Fonction de lecture d'une mélodie
 
 Cette fonction permet au robot de jouer une petite mélodie grâce à son buzzer intégré.
 
@@ -90,7 +90,7 @@ Même si elle n'améliore pas directement les performances du robot, elle apport
 
 ---
 
-## 💃 Fonction de danse
+## Fonction de danse
 
 Cette fonction réalise une courte chorégraphie en combinant plusieurs mouvements du robot.
 
@@ -102,7 +102,7 @@ En effet, une danse effectuée avant le début d'un combat permettait d'obtenir 
 
 ---
 
-# 🤖 Conclusion
+# Conclusion
 
 La programmation a joué un rôle essentiel dans les performances de Otto-BDS.
 
