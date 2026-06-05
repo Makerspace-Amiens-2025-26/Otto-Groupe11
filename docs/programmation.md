@@ -12,6 +12,38 @@ Pour la partie arduino, notre objectif était de faire aller le robot le plus vi
 
 ## Programme
 
-## Parties importantes du programme
+Nous allons vous montrer ici les parties du programme qui nous ont permis de rendre notre robot opérationnel
 
-## Conclusion
+### Fonction marche avant
+
+void marcheAvant() {
+
+  static int angle = 0;
+
+  int amplitude = 20;
+
+  float rad = angle * PI / 180.0;
+
+  int jd = 90 + offsetJD - amplitude * sin(rad) - correction;
+  int jg = 90 + offsetJG + amplitude * sin(rad);
+
+  int pd = 90 + offsetPD + 6 * sin(rad + PI/2);
+  int pg = 90 + offsetPG - 12* sin(rad + PI/2);
+
+  jambeDroite.write(jd);
+  jambeGauche.write(jg);
+
+  piedDroit.write(pd);
+  piedGauche.write(pg);
+
+  angle += 10;
+
+  if (angle >= 360) {
+    angle = 0;
+  }
+
+  delay(15);
+}
+
+
+
