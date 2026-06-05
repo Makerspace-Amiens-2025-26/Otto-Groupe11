@@ -4,7 +4,7 @@ nav_order: 5
 title: Conception et prototypage
 ---
 
-# ⚙️ Conception et prototypage
+# Conception et prototypage
 
 ## Conception du robot
 
@@ -16,8 +16,8 @@ Nous avons également souhaité lui donner une identité visuelle inspirée du B
 
 Les couleurs retenues sont :
 
-- 🔴 Rouge pour la tête ;
-- ⚫ Noir pour le corps, les jambes et les pieds.
+- Rouge pour la tête ;
+- Noir pour le corps, les jambes et les pieds.
 
 Ce choix permettait à notre robot d’être facilement reconnaissable parmi les autres participants tout en reprenant les couleurs du BDS.
 
@@ -25,13 +25,13 @@ Au-delà de l’aspect esthétique, nous avons également réfléchi à plusieur
 
 ---
 
-# 🧩 Pièces de base
+# Pièces de base
 
 Les pièces suivantes sont issues du modèle d’origine d’Otto-MKS et constituent la structure principale du robot.
 
 ---
 
-## 🤖 Tête
+## Tête
 
 La tête constitue la partie supérieure du robot et accueille notamment le capteur à ultrasons ainsi que plusieurs éléments électroniques.
 
@@ -41,7 +41,7 @@ Nous avons choisi de l’imprimer en rouge afin de rappeler les couleurs du Bure
 
 ---
 
-## 🚹 Corps
+## Corps
 
 Le corps constitue la structure centrale du robot.
 
@@ -53,7 +53,7 @@ Il sert également de point d’ancrage pour les jambes, les pieds et les pièce
 
 ---
 
-## 🦿 Jambes
+## Jambes
 
 Les jambes transmettent les mouvements des servomoteurs au reste du robot.
 
@@ -63,7 +63,7 @@ Elles jouent un rôle essentiel dans les déplacements et influencent directemen
 
 ---
 
-## 👣 Pieds
+## Pieds
 
 Les pieds assurent le contact avec le sol et participent directement à l’équilibre du robot.
 
@@ -73,9 +73,9 @@ Leur forme a une influence importante sur l’adhérence et sur la qualité des 
 
 ---
 
-# 🛠️ Pièce ajoutée
+# Pièce ajoutée
 
-## 👗 Tutu défensif
+## Tutu défensif
 
 Afin d’améliorer les performances du robot lors des combats de sumo, nous avons conçu une pièce supplémentaire que nous avons surnommée le **tutu**.
 
@@ -94,7 +94,7 @@ Même si cette modification peut paraître simple, elle a joué un rôle importa
 
 ---
 
-# 🤖 Assemblage final
+# Assemblage final
 
 Une fois toutes les pièces imprimées et assemblées, nous avons obtenu la version finale de Otto-BDS.
 
@@ -106,7 +106,7 @@ C’est cette version qui a participé aux différentes épreuves des Ottolympia
 
 ---
 
-# ⚠️ Prototypes non retenus
+# Prototypes non retenus
 
 Toutes les idées développées durant le projet n’ont pas été intégrées à la version finale du robot.
 
@@ -116,7 +116,7 @@ Même si elles n’ont jamais été utilisées en compétition, elles constituen
 
 ---
 
-## 📏 Extension du corps
+## Extension du corps
 
 Cette pièce avait pour objectif d’augmenter la taille du robot afin d’offrir une meilleure protection lors des combats.
 
@@ -131,7 +131,7 @@ Nous avons donc préféré conserver le modèle d’origine.
 
 ---
 
-## 💪 Bras robotisés
+## Bras robotisés
 
 Nous avions également envisagé plusieurs modèles de bras robotisés afin d’améliorer les performances du robot en Otto-Sumo.
 
