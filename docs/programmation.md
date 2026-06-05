@@ -12,7 +12,7 @@ Pour la partie arduino, notre objectif était de faire aller le robot le plus vi
 
 ## Programme
 
-Nous allons vous montrer ici les parties du programme qui nous ont permis de rendre notre robot opérationnel avec quelques fonctions amusantes
+Afin de rendre notre robot opérationnel nous avons codé quelques fonctions primordiale pour la compétition et on a ajouté quelques petites fonction amusantes.
 
 ### Fonction pour la marche avant
 
@@ -37,6 +37,11 @@ Nous allons vous montrer ici les parties du programme qui nous ont permis de ren
 ### Fonction pour faire une petite dance 
 
 <img width="370" height="535" alt="image" src="https://github.com/user-attachments/assets/1b1d8214-ff88-42a3-a91b-d809ef7f50a6" />
+
+
+# conclution  
+
+Voici donc les principales fonctions qui ont fait de notre Otto-BDS le robot exceptionnel qu'il est devenu aujourd'hui 
 
 
 
