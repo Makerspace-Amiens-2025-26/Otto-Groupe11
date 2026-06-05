@@ -22,23 +22,6 @@ Après de nombreux essais, nous avons constaté que certains servomoteurs n'avai
 
 ---
 
-# Optimisation avant les Ottolympiades
-
-Au cours de la compétition, nous nous sommes rapidement rendu compte que notre robot n'était pas suffisamment rapide pour conserver sa place dans le classement du Chrono Challenge.
-
-Nous avons donc modifié plusieurs paramètres du programme afin d'augmenter la vitesse des déplacements tout en conservant une bonne stabilité.
-
-Ces modifications ont porté leurs fruits puisque notre temps est passé d'environ **30 secondes à seulement 17,9 secondes**, ce qui nous a permis d'obtenir la **deuxième place** dans cette épreuve.
-
-Cette optimisation a également eu un impact positif sur la course d'obstacles, où Otto-BDS a finalement remporté la première place avec un temps record de **15 secondes**.
-
-## Fonction de marche avant modifié
-
-<img width="546" height="536" alt="image" src="https://github.com/user-attachments/assets/4596dd94-b9c2-4369-8b15-a7bd071840e5" />
-
-
----
-
 # Fonctions principales
 
 Afin de rendre notre robot opérationnel, nous avons développé plusieurs fonctions essentielles à son fonctionnement.
@@ -107,6 +90,22 @@ Initialement développée pour le côté amusant du projet, elle s'est révélé
 En effet, une danse effectuée avant le début d'un combat permettait d'obtenir des points bonus. Cette petite animation a donc contribué à améliorer notre classement.
 
 <img width="370" height="535" alt="Danse" src="https://github.com/user-attachments/assets/1b1d8214-ff88-42a3-a91b-d809ef7f50a6" />
+
+---
+
+# Optimisation avant les Ottolympiades
+
+Au cours de la compétition, nous nous sommes rapidement rendu compte que notre robot n'était pas suffisamment rapide pour conserver sa place dans le classement du Chrono Challenge.
+
+Nous avons donc modifié plusieurs paramètres du programme afin d'augmenter la vitesse des déplacements tout en conservant une bonne stabilité.
+
+Ces modifications ont porté leurs fruits puisque notre temps est passé d'environ **30 secondes à seulement 17,9 secondes**, ce qui nous a permis d'obtenir la **deuxième place** dans cette épreuve.
+
+Cette optimisation a également eu un impact positif sur la course d'obstacles, où Otto-BDS a finalement remporté la première place avec un temps record de **15 secondes**.
+
+## Fonction de marche avant modifié
+
+<img width="546" height="536" alt="image" src="https://github.com/user-attachments/assets/4596dd94-b9c2-4369-8b15-a7bd071840e5" />
 
 ---
 
