@@ -126,13 +126,14 @@ Nous avons donc préféré conserver le modèle d’origine.
 
 ### Modèle
 
-*(Ajouter ici une capture de la pièce)*
+<img width="1123" height="955" alt="Screenshot_2026-06-05-21-28-19-891_com microsoft emmx-edit" src="https://github.com/user-attachments/assets/76cba40d-38cc-41f4-863f-984ada79b625" />
+
 
 ---
 
 ## 💪 Bras robotisés
 
-Nous avions également envisagé d’ajouter des bras robotisés afin d’améliorer les performances du robot en Otto-Sumo.
+Nous avions également envisagé plusieurs modèles de bras robotisés afin d’améliorer les performances du robot en Otto-Sumo.
 
 L’idée était de pouvoir repousser ou déstabiliser les adversaires plus facilement.
 
@@ -140,7 +141,10 @@ Malheureusement, le temps disponible ne nous a pas permis de finaliser cette mod
 
 ### Modèle
 
-*(Ajouter ici une capture du prototype)*
+- <img width="1119" height="1033" alt="Screenshot_2026-06-05-21-31-46-002_com microsoft emmx-edit" src="https://github.com/user-attachments/assets/6d7069db-d75a-4d3e-a043-4f30bce0aa48" />
+
+- <img width="1484" height="843" alt="Screenshot_2026-06-05-21-30-26-425_com microsoft emmx-edit" src="https://github.com/user-attachments/assets/e38fa9c0-b569-49e2-b5a5-7bf5cdc43050" />
+
 
 ---
 
