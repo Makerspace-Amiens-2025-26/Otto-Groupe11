@@ -15,6 +15,8 @@ Pour la conception de notre robot OTTO, nous avons opté pour de légères modif
 
 ### Tête
 
+<img width="1093" height="762" alt="tete" src="https://github.com/user-attachments/assets/72066cb6-d2e7-456f-8a39-906432fa97c5" />
+
 ### Corps
 
 ### Jambes
