@@ -6,7 +6,7 @@ title: tutoriel
 
 # Comment construire et configurer son propre Otto-MKS
 
-## [Découvrez le robot Otto](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/homologation/](https://makerspace-amiens.fr/otto-mks/pages/informations/)
+## [Découvrez le robot Otto](https://makerspace-amiens.fr/otto-mks/pages/informations/)
 
 ## [Démarrer avec OnShape](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/02-onshape-project/)
 
