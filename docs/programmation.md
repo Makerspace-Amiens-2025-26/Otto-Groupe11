@@ -66,7 +66,7 @@ Pour certaines épreuves, il était indispensable que le robot puisse s'orienter
 
 Cette fonction permet à Otto-BDS d'effectuer une rotation vers la gauche afin d'ajuster sa trajectoire ou de se réaligner sur un parcours.
 
-<img width="352" height="433" alt="Rotation gauche" src="https://github.com/user-attachments/assets/38c0c0b9-322a-4d92-a31a-6dc639efccee" />
+"C:\Users\sevra\Downloads\tourne_g.png"
 
 ---
 
@@ -76,7 +76,7 @@ Cette fonction est similaire à la précédente mais permet une rotation dans le
 
 Elle était particulièrement utile lorsque le robot déviait légèrement de sa trajectoire.
 
-<img width="352" height="433" alt="Rotation droite" src="https://github.com/user-attachments/assets/ff18cb59-14d7-4aa3-a775-4abebd2c3447" />
+"C:\Users\sevra\Downloads\tourne_d.png"
 
 ---
 
@@ -86,7 +86,7 @@ Cette fonction permet au robot de jouer une petite mélodie grâce à son buzzer
 
 Même si elle n'améliore pas directement les performances du robot, elle apporte un aspect plus vivant et interactif à Otto-BDS.
 
-<img width="352" height="433" alt="Mélodie" src="https://github.com/user-attachments/assets/b6ae449f-081a-420c-bb5d-2026002fd21d" />
+"C:\Users\sevra\Downloads\mélodie.png"
 
 ---
 
