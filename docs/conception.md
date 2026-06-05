@@ -4,7 +4,7 @@ nav_order: 5
 title: Conception et prototypage
 ---
 
-# 🎨 Conception et prototypage
+# ⚙️ Conception et prototypage
 
 ## Conception du robot
 
@@ -31,7 +31,7 @@ Les pièces suivantes sont issues du modèle d’origine d’Otto-MKS et constit
 
 ---
 
-## 🔴 Tête
+## 🤖 Tête
 
 La tête constitue la partie supérieure du robot et accueille notamment le capteur à ultrasons ainsi que plusieurs éléments électroniques.
 
@@ -41,7 +41,7 @@ Nous avons choisi de l’imprimer en rouge afin de rappeler les couleurs du Bure
 
 ---
 
-## ⚫ Corps
+## 🚹 Corps
 
 Le corps constitue la structure centrale du robot.
 
@@ -73,9 +73,9 @@ Leur forme a une influence importante sur l’adhérence et sur la qualité des 
 
 ---
 
-# 🛡️ Pièce ajoutée
+# 🛠️ Pièce ajoutée
 
-## Tutu défensif
+## 👗 Tutu défensif
 
 Afin d’améliorer les performances du robot lors des combats de sumo, nous avons conçu une pièce supplémentaire que nous avons surnommée le **tutu**.
 
@@ -152,7 +152,7 @@ Bras brossés
 
 ---
 
-# 🤖 Conclusion
+# Conclusion
 
 Même si Otto-BDS repose principalement sur le modèle d’origine du robot Otto-MKS, plusieurs modifications ont été réalisées afin de l’adapter aux contraintes des Ottolympiades.
 
