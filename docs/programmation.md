@@ -66,7 +66,7 @@ Pour certaines épreuves, il était indispensable que le robot puisse s'orienter
 
 Cette fonction permet à Otto-BDS d'effectuer une rotation vers la gauche afin d'ajuster sa trajectoire ou de se réaligner sur un parcours.
 
-"C:\Users\sevra\Downloads\tourne_g.png"
+<img width="352" height="433" alt="Rotation gauche" src="ANCIEN_LIEN" />
 
 ---
 
