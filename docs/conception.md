@@ -19,21 +19,31 @@ Pour la conception de notre robot OTTO, nous avons opté pour de légères modif
 
 ### Corps
 
+<img width="816" height="740" alt="corps" src="https://github.com/user-attachments/assets/1a56124b-1fc6-4eb4-866d-6550ab00c6aa" />
+
 ### Jambes
+
+<img width="604" height="730" alt="jambe" src="https://github.com/user-attachments/assets/2760498f-d865-4500-a23c-23736ac4d196" />
 
 ### Pieds
 
+<img width="1157" height="685" alt="pieds" src="https://github.com/user-attachments/assets/bbe22e79-4bf6-4996-977e-3c4939556c03" />
 
 ## Pièce ajoutée
 
 ### Tutu
 
+<img width="776" height="605" alt="tutu" src="https://github.com/user-attachments/assets/a9b50278-dfb8-448f-9e60-7eb85b8954ca" />
 
 ## Pièce modélisée mais non utilisée
 
 ### Ajout d'une rallonge pour le corps
 
 ### Bras
+
+## Assemblage final
+
+<img width="489" height="445" alt="assemblage" src="https://github.com/user-attachments/assets/a69f3226-35ed-4743-ba3c-05fadef7224f" />
 
 ## Choix techniques
 
