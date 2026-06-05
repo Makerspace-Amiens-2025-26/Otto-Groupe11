@@ -16,7 +16,12 @@ Nous allons vous montrer ici les parties du programme qui nous ont permis de ren
 
 ### Fonction marche avant
 
-hero_image:<img width="544" height="537" alt="Marche_avant" src="https://github.com/user-attachments/assets/f8479dc7-f620-4e2f-8559-6a722f5571ae" />
+<img width="544" height="537" alt="Marche_avant" src="https://github.com/user-attachments/assets/f8479dc7-f620-4e2f-8559-6a722f5571ae" />
+
+### Fonction marche arrière
+
+<img width="452" height="532" alt="Marche_arrière" src="https://github.com/user-attachments/assets/65535bb9-f476-4098-b18a-9002c4b7f533" />
+
 
 
 
