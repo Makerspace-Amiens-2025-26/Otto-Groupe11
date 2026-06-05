@@ -12,7 +12,7 @@ Pour la partie arduino, notre objectif était de faire aller le robot le plus vi
 
 ## Programme
 
-Nous allons vous montrer ici les parties du programme qui nous ont permis de rendre notre robot opérationnel
+Nous allons vous montrer ici les parties du programme qui nous ont permis de rendre notre robot opérationnel avec quelques fonctions amusantes
 
 ### Fonction pour la marche avant
 
@@ -22,11 +22,26 @@ Nous allons vous montrer ici les parties du programme qui nous ont permis de ren
 
 <img width="452" height="532" alt="Marche_arrière" src="https://github.com/user-attachments/assets/65535bb9-f476-4098-b18a-9002c4b7f533" />
 
-### Fonction pour la tourner à gauche
+### Fonction pour tourner à gauche
 
 <img width="352" height="433" alt="image" src="https://github.com/user-attachments/assets/38c0c0b9-322a-4d92-a31a-6dc639efccee" />
 
-### Fonction pour 
+### Fonction pour tourner à droite
+
+<img width="352" height="433" alt="image" src="https://github.com/user-attachments/assets/ff18cb59-14d7-4aa3-a775-4abebd2c3447" />
+
+### Fonction pour mettre une mélodie
+
+<img width="352" height="433" alt="image" src="https://github.com/user-attachments/assets/b6ae449f-081a-420c-bb5d-2026002fd21d" />
+
+### Fonction pour faire une dance de combat
+
+<img width="352" height="433" alt="image" src="https://github.com/user-attachments/assets/854a1a60-2b04-458c-a0ee-84e52be6b2c0" />
+
+
+
+
+
 
 
 
