@@ -4,58 +4,154 @@ nav_order: 5
 title: Conception et prototypage
 ---
 
-# Conception et Prototypage
+# 🎨 Conception et prototypage
 
-## Conception :
+## Conception du robot
 
-Pour la conception de notre robot OTTO, nous avons opté pour de légères modifications en fonction des épreuves des Ottolympiades tout en gardant principalement le modèle de base. Nous avons opté pour des couleurs dans le style de l'association de sport qui se nomme le bureau des sports (BDS), d'où le nom de notre otto qui est otto-BDS. Les couleurs principales sont le rouge et noir. Nous avons donc imprimé la tête en rouge puis les jambes, les pieds, et le corps en noir. Vous pouvez retrouvez ces pièces sur OnShape. Ensuite nous avons opté pour l'impression d'un "tutu" défensif. Cette jupe permet de nous défendre des coups ennemis mais aussi d'attaquer les ennemis en avancant et en les faisant basculer vers l'arrière. Nous avons mis de côté l'idée de faire des bras robotisés par manque de temps.  
+Pour la conception de notre robot Otto-BDS, nous avons choisi de conserver une grande partie du modèle de base d’Otto-MKS tout en réalisant plusieurs modifications destinées à améliorer ses performances lors des Ottolympiades.
 
+L’objectif n’était pas de repartir de zéro, mais plutôt d’adapter un robot déjà fonctionnel aux différentes contraintes des épreuves.
 
-## Pièce de base
+Nous avons également souhaité lui donner une identité visuelle inspirée du Bureau des Sports (BDS), d’où son nom : **Otto-BDS**.
 
-### Tête
+Les couleurs retenues sont :
+
+- 🔴 Rouge pour la tête ;
+- ⚫ Noir pour le corps, les jambes et les pieds.
+
+Ce choix permettait à notre robot d’être facilement reconnaissable parmi les autres participants tout en reprenant les couleurs du BDS.
+
+Au-delà de l’aspect esthétique, nous avons également réfléchi à plusieurs améliorations mécaniques susceptibles d’apporter un avantage lors des compétitions.
+
+---
+
+# 🧩 Pièces de base
+
+Les pièces suivantes sont issues du modèle d’origine d’Otto-MKS et constituent la structure principale du robot.
+
+---
+
+## 🔴 Tête
+
+La tête constitue la partie supérieure du robot et accueille notamment le capteur à ultrasons ainsi que plusieurs éléments électroniques.
+
+Nous avons choisi de l’imprimer en rouge afin de rappeler les couleurs du Bureau des Sports et de distinguer immédiatement Otto-BDS des autres robots.
 
 <img width="1093" height="762" alt="tete" src="https://github.com/user-attachments/assets/72066cb6-d2e7-456f-8a39-906432fa97c5" />
 
-### Corps
+---
+
+## ⚫ Corps
+
+Le corps constitue la structure centrale du robot.
+
+Il permet d’accueillir la carte électronique, la batterie ainsi que l’ensemble des éléments mécaniques nécessaires au fonctionnement d’Otto-BDS.
+
+Il sert également de point d’ancrage pour les jambes, les pieds et les pièces supplémentaires ajoutées durant le projet.
 
 <img width="816" height="740" alt="corps" src="https://github.com/user-attachments/assets/1a56124b-1fc6-4eb4-866d-6550ab00c6aa" />
 
-### Jambes
+---
+
+## 🦿 Jambes
+
+Les jambes transmettent les mouvements des servomoteurs au reste du robot.
+
+Elles jouent un rôle essentiel dans les déplacements et influencent directement la stabilité ainsi que la vitesse du robot.
 
 <img width="604" height="730" alt="jambe" src="https://github.com/user-attachments/assets/2760498f-d865-4500-a23c-23736ac4d196" />
 
-### Pieds
+---
+
+## 👣 Pieds
+
+Les pieds assurent le contact avec le sol et participent directement à l’équilibre du robot.
+
+Leur forme a une influence importante sur l’adhérence et sur la qualité des déplacements réalisés lors des différentes épreuves.
 
 <img width="1157" height="685" alt="pieds" src="https://github.com/user-attachments/assets/bbe22e79-4bf6-4996-977e-3c4939556c03" />
 
-## Pièce ajoutée
+---
 
-### Tutu
+# 🛡️ Pièce ajoutée
+
+## Tutu défensif
+
+Afin d’améliorer les performances du robot lors des combats de sumo, nous avons conçu une pièce supplémentaire que nous avons surnommée le **tutu**.
 
 <img width="776" height="605" alt="tutu" src="https://github.com/user-attachments/assets/a9b50278-dfb8-448f-9e60-7eb85b8954ca" />
 
+Cette pièce avait plusieurs objectifs :
 
-## Assemblage final
+- protéger le robot contre certaines attaques ;
+- empêcher les robots adverses de passer sous notre châssis ;
+- augmenter la surface de contact lors des poussées ;
+- faciliter le basculement des adversaires vers l’arrière.
+
+L’idée était de transformer une simple pièce de protection en véritable outil offensif.
+
+Même si cette modification peut paraître simple, elle a joué un rôle important lors des épreuves d’Otto-Sumo en permettant à Otto-BDS de mieux résister aux impacts et de déstabiliser certains adversaires.
+
+---
+
+# 🤖 Assemblage final
+
+Une fois toutes les pièces imprimées et assemblées, nous avons obtenu la version finale de Otto-BDS.
 
 <img width="489" height="445" alt="assemblage" src="https://github.com/user-attachments/assets/a69f3226-35ed-4743-ba3c-05fadef7224f" />
 
+Ce modèle représente l’aboutissement de plusieurs semaines de conception, d’impression 3D, de montage et de tests.
 
-## Problème technique 
+C’est cette version qui a participé aux différentes épreuves des Ottolympiades.
 
-Il y avait certaines pièces que nous avons pu modéliser mais que nous avons pas utilisé a cause de certains défaut mais peut etre qu'elles vous seront utile
+---
 
+# ⚠️ Prototypes non retenus
 
-### Ajout d'une rallonge pour le corps
+Toutes les idées développées durant le projet n’ont pas été intégrées à la version finale du robot.
 
+Certaines pièces ont été modélisées puis abandonnées après réflexion ou par manque de temps.
 
+Même si elles n’ont jamais été utilisées en compétition, elles constituent des pistes d’amélioration intéressantes pour une future version de Otto-BDS.
 
+---
 
-### Bras
+## 📏 Extension du corps
 
+Cette pièce avait pour objectif d’augmenter la taille du robot afin d’offrir une meilleure protection lors des combats.
 
+Cependant, cette solution augmentait également le poids du robot et risquait de gêner certains mouvements.
 
+Nous avons donc préféré conserver le modèle d’origine.
 
+### Modèle
 
+*(Ajouter ici une capture de la pièce)*
 
+---
 
+## 💪 Bras robotisés
+
+Nous avions également envisagé d’ajouter des bras robotisés afin d’améliorer les performances du robot en Otto-Sumo.
+
+L’idée était de pouvoir repousser ou déstabiliser les adversaires plus facilement.
+
+Malheureusement, le temps disponible ne nous a pas permis de finaliser cette modification avant la compétition.
+
+### Modèle
+
+*(Ajouter ici une capture du prototype)*
+
+---
+
+# 🤖 Conclusion
+
+Même si Otto-BDS repose principalement sur le modèle d’origine du robot Otto-MKS, plusieurs modifications ont été réalisées afin de l’adapter aux contraintes des Ottolympiades.
+
+Certaines améliorations, comme le tutu défensif, ont directement contribué aux performances du robot en compétition.
+
+D’autres idées n’ont pas pu être finalisées à temps, mais elles constituent des pistes d’évolution intéressantes pour de futures versions.
+
+Cette phase de conception nous a permis de découvrir les différentes étapes du prototypage, de la modélisation 3D à l’impression des pièces, tout en nous confrontant aux contraintes techniques qu’impose un projet réel.
+
+Au final, Otto-BDS est devenu bien plus qu’un simple robot éducatif : il est devenu un véritable compétiteur capable de rivaliser avec les meilleurs robots des Ottolympiades.
