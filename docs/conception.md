@@ -29,7 +29,7 @@ Pour la conception de notre robot OTTO, nous avons opté pour de légères modif
 
 ## Pièce modélisée mais non utilisée
 
-### Haut du corps
+### Ajout d'une rallonge pour le corps
 
 ### Bras
 
