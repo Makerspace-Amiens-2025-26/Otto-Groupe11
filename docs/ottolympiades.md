@@ -91,7 +91,7 @@ Nous vous avons mis ci-dessous les noms de ces groupes ainsi que le design de le
 <img width="411" height="531" alt="image" src="https://github.com/user-attachments/assets/8437ade7-351d-4dcb-b900-1adbd0914fcc" />
 
 ## Black Cat
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
+<img width="1014" height="1695" alt="IMG_20260606_210704" src="https://github.com/user-attachments/assets/649220fb-5238-4be8-b411-209a2b315d97" />
 
 ## Les Tigres
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
