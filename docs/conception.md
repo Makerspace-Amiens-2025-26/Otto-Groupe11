@@ -16,8 +16,8 @@ Nous avons également souhaité lui donner une identité visuelle inspirée du B
 
 Les couleurs retenues sont :
 
-- Rouge pour la tête ;
-- Noir pour le corps, les jambes et les pieds.
+- Rouge pour la tête 
+- Noir pour le corps, les jambes et les pieds
 
 Ce choix permettait à notre robot d’être facilement reconnaissable parmi les autres participants tout en reprenant les couleurs du BDS.
 
@@ -141,11 +141,15 @@ Malheureusement, le temps disponible ne nous a pas permis de finaliser cette mod
 
 ### Modèle
 
-Bras clés
+
+**Bras clés**
+
 
 <img width="1119" height="1033" alt="Screenshot_2026-06-05-21-31-46-002_com microsoft emmx-edit" src="https://github.com/user-attachments/assets/6d7069db-d75a-4d3e-a043-4f30bce0aa48" />
 
-Bras brossés
+
+**Bras brossés**
+
 
 <img width="1484" height="843" alt="Screenshot_2026-06-05-21-30-26-425_com microsoft emmx-edit" src="https://github.com/user-attachments/assets/e38fa9c0-b569-49e2-b5a5-7bf5cdc43050" />
 
