@@ -20,20 +20,7 @@ Bienvenue dans la documentation du robot OTTO du groupe 11 : Sevra MVINZOU et Ti
 <img width="402" height="435" alt="image" src="https://github.com/user-attachments/assets/85ffd4a7-ee91-47c9-8a8d-83dcdeaa6b66" />
 
 
+## Vidéo
 
 https://github.com/user-attachments/assets/4fa6c08b-b95b-4355-a139-34d7cccdfecc
 
-## Vidéo
-
-Ici vous publierez la vidéo de votre projet. 
-- 1min30 au format vertical
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
-
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
-
----
