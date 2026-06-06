@@ -41,7 +41,7 @@ Au fil des Ottolympiades, Otto-BDS est passé du statut d'outsider à celui de v
 
 # Les participant des Ottolympiades :
 
-Pendant la journée des projets 16 groupe se sont inscrit au Ottolympiades pour tenter de remporter les épreuves de cette compétition.
+Pendant la journée des projets 18 groupes se sont inscrit au Ottolympiades pour tenter de remporter les épreuves de cette compétition.
 Nous vous avons mis ci-dessous les noms de ces groupes ainsi que le design de leur robot.
 
 ## OttoBrico
@@ -82,16 +82,13 @@ Nous vous avons mis ci-dessous les noms de ces groupes ainsi que le design de le
 <img width="490" height="500" alt="image" src="https://github.com/user-attachments/assets/a101b993-2a56-4303-8ffb-317cfd168815" />
 
 ## OttoJägger
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
+<img width="511" height="567" alt="image" src="https://github.com/user-attachments/assets/e96bc908-b021-4673-be3c-396b9bdac9d7" />
 
 ## Colabot
 <img width="428" height="497" alt="image" src="https://github.com/user-attachments/assets/122dce5c-dc68-4792-9523-93f85ebd116f" />
 
-
 ## WALL-E
 <img width="411" height="531" alt="image" src="https://github.com/user-attachments/assets/8437ade7-351d-4dcb-b900-1adbd0914fcc" />
-
-
 
 ## Black Cat
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
