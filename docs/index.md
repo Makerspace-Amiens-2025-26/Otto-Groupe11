@@ -1,12 +1,7 @@
-
-
-
-
 ---
-layout: home
-nav_order: 1
-title: Accueil
-permalink: /
+layout: default
+nav_order: 2
+title: Index
 ---
 
 # Bienvenue dans notre documentation
