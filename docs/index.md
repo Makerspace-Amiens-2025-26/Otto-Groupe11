@@ -14,9 +14,13 @@ Bienvenue dans la documentation du robot OTTO du groupe 11 : Sevra MVINZOU et Ti
 
 <img width="402" height="435" alt="image" src="https://github.com/user-attachments/assets/85ffd4a7-ee91-47c9-8a8d-83dcdeaa6b66" />
 
+# À propos du Projet
+
+Otto-MKS est un robot humanoïde bipède open-source, adapté et fabriqué au MakerSpace d’UniLaSalle Amiens. Notre groupe a conçu et assemblé sa propre version d’Otto, en modifiant certaines pièces et en programmant des comportements personnalisés. Le robot est piloté par un ESP32 et peut marcher, éviter des obstacles grâce à un capteur ultrason HC-SR04, et être contrôlé à distance via Bluetooth ou WiFi avec l’application RemoteXY.
 
 ## Vidéo
 
+Vous trouverai ici une vidéo de 1 minute sur la présentation de notre Otto-BDS
 
 [Cliquez ici pour voir la vidéo !](https://github.com/user-attachments/assets/0cada115-22e6-45c5-8ff2-6c040d398af8)
 
