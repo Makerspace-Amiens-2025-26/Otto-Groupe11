@@ -17,5 +17,7 @@ Bienvenue dans la documentation du robot OTTO du groupe 11 : Sevra MVINZOU et Ti
 
 ## Vidéo
 
-[Cliquez ici pour voir la vidéo !](https://github.com/user-attachments/assets/0cada115-22e6-45c5-8ff2-6c040d398af8)
+<video width="700" controls>
+  <source src="https://github.com/user-attachments/assets/0cada115-22e6-45c5-8ff2-6c040d398af8" type="video/mp4">
+</video>
 
