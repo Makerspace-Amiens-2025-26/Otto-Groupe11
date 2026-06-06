@@ -48,7 +48,7 @@ Nous vous avons mis ci-dessous les noms de ces groupes ainsi que le design de le
 <img width="361" height="521" alt="image" src="https://github.com/user-attachments/assets/34bfe49e-e8d8-4bfa-a778-35ad8c3150b5" />
 
 ## Otto-BDS
-<img width="303" height="377" alt="image" src="https://github.com/user-attachments/assets/4e0f73ed-500c-4ecf-9af0-9fa7927021b9" />
+<img width="402" height="435" alt="image" src="https://github.com/user-attachments/assets/85ffd4a7-ee91-47c9-8a8d-83dcdeaa6b66" />
 
 
 ## La Grinta
