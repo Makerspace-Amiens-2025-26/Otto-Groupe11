@@ -36,63 +36,56 @@ Pourtant, malgré le manque d'attention et de confiance à son égard, ce petit 
 
 Au fil des Ottolympiades, Otto-BDS est passé du statut d'outsider à celui de véritable concurrent capable de rivaliser avec les meilleurs robots de la compétition.
 
-Le nombre de groupes participants étaient de 16 :
+# Le nombre de groupes participants étaient de 16 :
 
-# OttoBrico
-
+## OttoBrico
 <img width="361" height="521" alt="image" src="https://github.com/user-attachments/assets/34bfe49e-e8d8-4bfa-a778-35ad8c3150b5" />
 
-- OttoJägger
-
-# Otto-BDS
-
+## Otto-BDS
 <img width="402" height="435" alt="image" src="https://github.com/user-attachments/assets/85ffd4a7-ee91-47c9-8a8d-83dcdeaa6b66" />
 
-- Les Tigres
-- Minitto
-
-# La Grinta
-
+## La Grinta
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
 
-# Groupe 5
-
+## Groupe 5
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
   
-# LaMano Team
-
+## LaMano Team
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
 
-# OttoMan
-
+## OttoMan
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
 
-# Otto knight
-
+## Otto knight
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=dc2aca01fe742e8085016c10&wvm=v&wvmid=b7d139e8e17be549f063f23a&eid=b48b7d90dc361639b8b7c192&elementType=ASSEMBLY" frameborder="0"></iframe>
 
-# BMW
+## BMW
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=b19b26d3fabd52bd86858b2e&wvm=v&wvmid=3f5041f8adda5ba224682234&eid=70175bb2256358d0cd1cc287&elementType=ASSEMBLY" frameborder="0"></iframe>
 
-- Black Cat
-
-# Yotoshi
+## Yotoshi
 <img width="326" height="502" alt="image" src="https://github.com/user-attachments/assets/4e146b72-019d-43bb-a8b4-6c74b9c4250f" />
 
-
-- WALL-E
-
-# Sharky
+## Sharky
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1866db2513d84bb61894f1f9&wvm=v&wvmid=56ab4c6cb9287fd7781d6d7c&eid=2c52b24e7e8171eb45ff5585&elementType=ASSEMBLY" frameborder="0"></iframe>
 
-- Colabot
-
-# Equipe 7
+## Equipe 7
 <img width="338" height="482" alt="image" src="https://github.com/user-attachments/assets/54d4a401-e03f-4bf4-81a7-9d39478bd5e4" />
 
-# Otto-Ninja
+## Otto-Ninja
 <img width="490" height="500" alt="image" src="https://github.com/user-attachments/assets/a101b993-2a56-4303-8ffb-317cfd168815" />
 
+## OttoJägger
+
+## Colabot
+
+## WALL-E
+
+## Black Cat
+
+## Les Tigres
+
+## Minitto
+ 
 
 Dans cette partie, nous allons retracer son parcours à travers les différentes épreuves :
 
