@@ -6,7 +6,7 @@ title: Objectifs du projet
 
 # Introduction
 
-À première vue, le projet Otto-MKS pouvait sembler simple : assembler un robot et apprendre à le programmer. Pourtant, il s’est rapidement transformé en un véritable défi mêlant robotique, électronique, mécanique et développement logiciel.
+À première vue, le projet Otto-MKS pouvait sembler simple : assembler un robot et apprendre à le programmer. Pourtant, il s’est rapidement transformé en un véritable défi mêlant robotique, électronique, mécanique et informatique.
 
 Le projet avait un objectif concret : préparer un robot capable de participer aux différentes épreuves des Ottolympiades organisées à UniLaSalle Amiens. Chaque étape du développement avait donc un impact direct sur ses performances en compétition.
 
@@ -22,12 +22,10 @@ Réalisé au sein du Makerspace d’UniLaSalle Amiens, il permet d’appliquer c
 
 Le robot Otto-MKS repose sur une architecture matérielle simple et modulaire, favorisant l’apprentissage par l’expérimentation. Nous avons ainsi été amenés à :
 
-- manipuler des composants électroniques ;
-- comprendre le fonctionnement de capteurs et d’actionneurs ;
-- programmer des comportements automatisés ;
-- résoudre des problèmes techniques d’intégration système.
-
-Ce projet constitue également une nouvelle expérience de gestion de projet et de travail en équipe.
+- manipuler des composants électroniques 
+- comprendre le fonctionnement de capteurs et d’actionneurs 
+- programmer des comportements automatisés 
+- résoudre des problèmes techniques et informatique
 
 ---
 
@@ -37,14 +35,12 @@ L’objectif principal du projet est de concevoir, assembler et programmer un ro
 
 Plus précisément, ce projet vise à :
 
-- Comprendre le fonctionnement des composants électroniques du robot ;
-- Assembler correctement les différentes pièces ;
-- Programmer le robot pour réaliser des déplacements et comportements simples ;
-- Tester et corriger les dysfonctionnements ;
-- Développer des compétences en travail d’équipe et en gestion de projet ;
-- Préparer le robot aux différentes épreuves de compétition.
-
-À terme, l’objectif est d’obtenir un robot fiable, autonome et performant.
+- Comprendre le fonctionnement des composants électroniques du robot 
+- Assembler correctement les différentes pièces 
+- Programmer le robot pour réaliser des déplacements et comportements simples 
+- Tester et corriger les dysfonctionnements 
+- Développer des compétences en travail d’équipe et en gestion de projet 
+- Préparer le robot aux différentes épreuves de compétition
 
 ---
 
@@ -75,4 +71,3 @@ Dans le cadre de ce projet de première année, plusieurs livrables étaient att
 - Un rapport de projet ou un site de documentation ;
 - Une participation aux Ottolympiades.
 
-Ces livrables ont pour objectif de valider nos compétences en conception, programmation et présentation de projet.
