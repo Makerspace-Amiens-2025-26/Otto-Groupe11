@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 1
-title: Index
+title: Acceuil
 ---
 
 # Bienvenue dans notre documentation
