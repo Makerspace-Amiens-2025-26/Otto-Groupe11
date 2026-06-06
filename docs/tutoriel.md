@@ -100,8 +100,8 @@ Les tutoriels ci-dessus permettent de construire un Otto-MKS standard.
 
 Pour découvrir les améliorations que nous avons apportées à notre propre robot, vous pouvez consulter les sections :
 
-- [Conception et prototypage](../conception/){: .btn .btn-primary }
-- [Programmation](../programmation/){: .btn }
-- [Ottolympiades](docs/ottolympiades.md)
+- [Conception et prototypage]
+- [Programmation]
+- [Ottolympiades]
 
 Vous y trouverez les modifications mécaniques et algorithmiques qui ont permis à **Otto-BDS** de remporter plusieurs récompenses lors des Ottolympiades.
