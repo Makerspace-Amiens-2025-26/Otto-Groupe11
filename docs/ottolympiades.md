@@ -48,7 +48,9 @@ Le nombre de groupes participants étaient de 16 :
 - LaMano Team
 - OttoMan
 - Otto knight
-- BMW
+  # BMW
+  <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=b19b26d3fabd52bd86858b2e&wvm=v&wvmid=3f5041f8adda5ba224682234&eid=70175bb2256358d0cd1cc287&elementType=ASSEMBLY" frameborder="0"></iframe>
+
 - Black Cat
 - Yotoshi
 - WALL-E
@@ -57,6 +59,7 @@ Le nombre de groupes participants étaient de 16 :
 
 # Equipe 7
 <img width="338" height="482" alt="image" src="https://github.com/user-attachments/assets/54d4a401-e03f-4bf4-81a7-9d39478bd5e4" />
+
 - Otto-Ninja
 
 Dans cette partie, nous allons retracer son parcours à travers les différentes épreuves :
