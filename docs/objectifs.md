@@ -25,7 +25,7 @@ Le robot Otto-MKS repose sur une architecture matérielle simple et modulaire, f
 - manipuler des composants électroniques 
 - comprendre le fonctionnement de capteurs et d’actionneurs 
 - programmer des comportements automatisés 
-- résoudre des problèmes techniques et informatique
+- résoudre des problèmes techniques et informatiques
 
 ---
 
