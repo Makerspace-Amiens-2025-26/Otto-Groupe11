@@ -16,7 +16,7 @@ Nous avons également souhaité lui donner une identité visuelle inspirée du B
 
 Les couleurs retenues sont :
 
-- Rouge pour la tête 
+- Rouge pour la tête ainsi que le tutu
 - Noir pour le corps, les jambes et les pieds
 
 Ce choix permettait à notre robot d’être facilement reconnaissable parmi les autres participants tout en reprenant les couleurs du BDS.
