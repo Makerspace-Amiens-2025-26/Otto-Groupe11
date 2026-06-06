@@ -53,7 +53,11 @@ Le nombre de groupes participants étaient de 16 :
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=b19b26d3fabd52bd86858b2e&wvm=v&wvmid=3f5041f8adda5ba224682234&eid=70175bb2256358d0cd1cc287&elementType=ASSEMBLY" frameborder="0"></iframe>
 
 - Black Cat
-- Yotoshi
+
+# Yotoshi
+<img width="326" height="502" alt="image" src="https://github.com/user-attachments/assets/4e146b72-019d-43bb-a8b4-6c74b9c4250f" />
+
+
 - WALL-E
 
 # Sharky
