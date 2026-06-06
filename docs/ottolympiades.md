@@ -36,9 +36,13 @@ Pourtant, malgré le manque d'attention et de confiance à son égard, ce petit 
 
 Au fil des Ottolympiades, Otto-BDS est passé du statut d'outsider à celui de véritable concurrent capable de rivaliser avec les meilleurs robots de la compétition.
 
+
 ---
 
-# Le nombre de groupes participants étaient de 16 :
+# Les participant des Ottolympiades :
+
+Pendant la journée des projets 16 groupe se sont inscrit au Ottolympiades pour tenter de remporter les épreuves de cette compétition.
+Nous vous avons mis ci-dessous les noms de ces groupes ainsi que le design de leur robot.
 
 ## OttoBrico
 <img width="361" height="521" alt="image" src="https://github.com/user-attachments/assets/34bfe49e-e8d8-4bfa-a778-35ad8c3150b5" />
