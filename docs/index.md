@@ -24,7 +24,7 @@ Vous trouverz ci-joint une vidéo sur la présentation de notre Otto-BDS.
 
 Bon visionnage !
 
-[Cliquez ici pour voir la vidéo !](https://github.com/user-attachments/assets/0cada115-22e6-45c5-8ff2-6c040d398af8)
+(https://github.com/user-attachments/assets/0cada115-22e6-45c5-8ff2-6c040d398af8)
 
 
 
