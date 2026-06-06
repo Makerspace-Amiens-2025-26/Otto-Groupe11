@@ -94,12 +94,14 @@ Au fil des Ottolympiades, Otto-BDS est passé du statut d'outsider à celui de v
 ## Minitto
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
  
+
+
 > Malheureusement, nous n’avons pas pu obtenir tous les modèles ou les photos des autres groupes, ils ont donc été remplacés par le modèle de base.
 > Certains robots n’avaient pas de modification, donc nous avons aussi mis des modèles de base pour ces derniers.
 
 ---
 
-**Dans cette partie, nous allons retracer le parcours de notre Otto-BDS à travers les différentes épreuves :**
+## Dans cette partie, nous allons retracer le parcours de notre Otto-BDS à travers les différentes épreuves :
 
 - Course d'obstacles
 - Chrono Challenge
