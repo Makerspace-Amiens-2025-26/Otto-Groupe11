@@ -85,7 +85,8 @@ Nous vous avons mis ci-dessous les noms de ces groupes ainsi que le design de le
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
 
 ## Colabot
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
+<img width="428" height="497" alt="image" src="https://github.com/user-attachments/assets/122dce5c-dc68-4792-9523-93f85ebd116f" />
+
 
 ## WALL-E
 <img width="411" height="531" alt="image" src="https://github.com/user-attachments/assets/8437ade7-351d-4dcb-b900-1adbd0914fcc" />
