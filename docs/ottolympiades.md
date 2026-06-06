@@ -36,7 +36,26 @@ Pourtant, malgré le manque d'attention et de confiance à son égard, ce petit 
 
 Au fil des Ottolympiades, Otto-BDS est passé du statut d'outsider à celui de véritable concurrent capable de rivaliser avec les meilleurs robots de la compétition.
 
-> ⚠️ Les épreuves ne sont pas présentées dans leur ordre chronologique. Afin de rendre le récit plus agréable à suivre, elles sont racontées de la moins mouvementée à la plus intense.
+Le nombre de groupes participants étaient de 16 :
+
+- OttoBrico
+- OttoJägger
+- Otto-BDS
+- Les Tigres
+- Minitto
+- La Grinta
+- Groupe 5
+- LaMano Team
+- OttoMan
+- Otto knight
+- BMW
+- Black Cat
+- Yotoshi
+- WALL-E
+- Sharky
+- Colabot
+- Equipe 7
+- Otto-Ninja
 
 Dans cette partie, nous allons retracer son parcours à travers les différentes épreuves :
 
