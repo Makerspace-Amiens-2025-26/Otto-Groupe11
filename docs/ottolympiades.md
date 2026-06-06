@@ -87,7 +87,8 @@ Nous vous avons mis ci-dessous les noms de ces groupes ainsi que le design de le
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
 
 ## WALL-E
-<img width="221" height="286" alt="image" src="https://github.com/user-attachments/assets/4388a38e-c75c-4e18-854b-6288ad58f38c" />
+<img width="411" height="531" alt="image" src="https://github.com/user-attachments/assets/8437ade7-351d-4dcb-b900-1adbd0914fcc" />
+
 
 
 ## Black Cat
