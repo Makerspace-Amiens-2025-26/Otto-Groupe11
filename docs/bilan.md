@@ -8,15 +8,8 @@ title: Bilan du projet
 
 ## Ce que nous avons appris
 
-### Arduino
-
 Tout au long de ce projet, nous avons appris à programmer sur Arduino et à perfectionner notre code afin de donner des instructions permettant à notre robot d'être le plus performant possible pour les Ottolympiades.
-
-### Remote xy
-
-Nous avons appris à utiliser l’application RemoteXY et à l’implanter dans notre programme afin de pouvoir contrôler notre robot à distance et activer différents actionneurs en fonction des instructions données dans notre programme.
-
-### Travail en équipe
+Nous avons aussi appris à utiliser l’application RemoteXY et à l’implanter dans notre programme afin de pouvoir contrôler notre robot à distance et activer différents actionneurs en fonction des instructions données dans notre programme.
 
 Au commencement du projet, nous avons beaucoup sous-estimé l’importance du travail d’équipe. Nous nous sommes simplement mis ensemble parce que nous nous entendions bien dans la vie de tous les jours. Bien sûr, l’entente entre coéquipiers est importante, mais nous avons oublié de prendre en compte nos compétences respectives, notre manière de travailler ou encore la répartition des tâches. Tout au long de ce projet, nous avons compris à quel point ces éléments étaient importants et nous ferons davantage attention à ces détails dans nos futurs projets.
 
