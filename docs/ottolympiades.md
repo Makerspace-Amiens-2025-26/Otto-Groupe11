@@ -54,7 +54,9 @@ Le nombre de groupes participants étaient de 16 :
 - WALL-E
 - Sharky
 - Colabot
-- [Equipe 7](<img width="338" height="482" alt="image" src="https://github.com/user-attachments/assets/54d4a401-e03f-4bf4-81a7-9d39478bd5e4" />)
+
+# Equipe 7
+<img width="338" height="482" alt="image" src="https://github.com/user-attachments/assets/54d4a401-e03f-4bf4-81a7-9d39478bd5e4" />
 - Otto-Ninja
 
 Dans cette partie, nous allons retracer son parcours à travers les différentes épreuves :
