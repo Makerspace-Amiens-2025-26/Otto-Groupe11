@@ -74,7 +74,7 @@ Apprenez à utiliser le capteur de distance ainsi que la liaison série.
 
 Les servomoteurs sont les éléments responsables des mouvements du robot.
 
-➡️ [cliquez ici pour découvrir les servomoteurs](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/08-servomotor/)
+[cliquez ici pour découvrir les servomoteurs](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/08-servomotor/)
 
 ---
 
@@ -90,7 +90,7 @@ Une fois toutes les pièces imprimées et les composants programmés, il ne rest
 
 Pour aller plus loin, il est possible de piloter le robot grâce à l'application RemoteXY.
 
-➡️ [cliquez ici pour découvrir RemoteXY](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/10-remoteXY/)
+[cliquez ici pour découvrir RemoteXY](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/10-remoteXY/)
 
 ---
 
