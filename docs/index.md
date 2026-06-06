@@ -17,6 +17,8 @@ Bienvenue dans la documentation du robot OTTO du groupe 11 : Sevra MVINZOU et Ti
 
 ## Vidéo
 
+Voici la vidéo de présentation de notre prototype (format portrait 1min30), incluant les explications de notre code de programmation, des démonstrations du fonctionnement des servomoteurs en mode autonome/télécommandé et les plans de notre conception 3D :
+
 [Cliquez ici pour voir la vidéo !](https://github.com/user-attachments/assets/0cada115-22e6-45c5-8ff2-6c040d398af8)
 
 
