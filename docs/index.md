@@ -16,7 +16,7 @@ Bienvenue dans la documentation du robot OTTO du groupe 11 : Sevra MVINZOU et Ti
 <iframe height="600" width="100%"
 src="https://modelembedder.net/embed?did=5cb4b3f36e829320f4bcbee5&wid=20933f13be1f15cae3994081&eid=22c8180d1d07c5f3b6df2aa7"
 frameborder="0">
-</iframe>
+
 
 {: .warning }
 >Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
