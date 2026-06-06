@@ -13,6 +13,9 @@ Bienvenue dans la documentation du robot OTTO du groupe 11 : Sevra MVINZOU et Ti
 
 [Notre repo GitHub](https://github.com/Makerspace-Amiens-2025-26/Otto-Groupe11/tree/main/docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+<img width="402" height="435" alt="image" src="https://github.com/user-attachments/assets/85ffd4a7-ee91-47c9-8a8d-83dcdeaa6b66" />
+
+
 
 
 {: .warning }
