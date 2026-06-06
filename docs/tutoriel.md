@@ -1,29 +1,107 @@
 ---
 layout: default
-nav_order: 3
-title: tutoriel 
+nav_order: 6
+title: Tutoriel
 ---
 
-# Comment construire et configurer son propre Otto-MKS
+# Créer son propre Otto-MKS
 
-## [Découvrez le robot Otto](https://makerspace-amiens.fr/otto-mks/pages/informations/)
+Vous souhaitez reproduire notre projet ou simplement découvrir l'univers du robot Otto-MKS ?
 
-## [Démarrer avec OnShape](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/02-onshape-project/)
+Cette section regroupe les différents tutoriels qui nous ont permis de concevoir, programmer et assembler notre robot **Otto-BDS**.
 
-## [Exportez et imprimez Otto](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/03-export-print/)
+En suivant ces étapes dans l'ordre, vous pourrez créer votre propre robot et commencer à le personnaliser selon vos besoins.
 
-## [Découvrez la carte du Otto](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/04-discover-otto-pcb/)
+---
 
-## [Démarrer avec Arduino](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/05-discover-arduino/)
+## Découvrir le robot Otto
 
-## [Premier programme - Buzzer et Fonctions](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/06-buzzer-functions/)
+Avant de commencer, il est important de comprendre le fonctionnement général du robot ainsi que les différents composants qui le constituent.
 
-## [Capteur ultrason et liaison série](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/07-ultrasound-serial/)
+[cliquez ici pour découvrir le robot Otto](https://makerspace-amiens.fr/otto-mks/pages/informations/)
 
-## [Servomoteurs](http://makerspace-amiens.fr/otto-mks/docs/tutoriels/08-servomotor/)
+---
 
-## [Assemblez votre Otto-MKS](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/09-assemble-otto/)
+## Modélisation sur OnShape
 
-## [RemoteXY](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/10-remoteXY/)
+La première étape consiste à découvrir le modèle 3D du robot et à apprendre à le modifier.
 
+[cliquez ici pour démarrer avec OnShape](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/02-onshape-project/)
 
+---
+
+## Impression 3D
+
+Une fois la modélisation terminée, les pièces peuvent être exportées puis imprimées.
+
+[cliquez ici pour exporter et imprimer Otto](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/03-export-print/)
+
+---
+
+## Découverte de la carte électronique
+
+Cette étape présente la carte Otto-MKS et les différents composants électroniques qui la composent.
+
+[cliquez ici pour découvrir la carte Otto](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/04-discover-otto-pcb/)
+
+---
+
+## Premiers pas avec Arduino
+
+Avant de programmer le robot, il faut installer et comprendre comment fonctionne Arduino.
+
+[cliquez ici pour démarrer avec Arduino](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/05-discover-arduino/)
+
+---
+
+## Buzzer et fonctions
+
+Ce tutoriel permet de découvrir les bases de la programmation du robot grâce à l'utilisation du buzzer et des fonctions.
+
+[Premier programme : buzzer et fonctions](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/06-buzzer-functions/)
+
+---
+
+## 📡 Capteur ultrason
+
+Apprenez à utiliser le capteur de distance ainsi que la liaison série.
+
+➡️ [Capteur ultrason et liaison série](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/07-ultrasound-serial/)
+
+---
+
+## ⚙️ Servomoteurs
+
+Les servomoteurs sont les éléments responsables des mouvements du robot.
+
+➡️ [Découvrir les servomoteurs](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/08-servomotor/)
+
+---
+
+## 🔩 Assemblage final
+
+Une fois toutes les pièces imprimées et les composants programmés, il ne reste plus qu'à assembler le robot.
+
+➡️ [Assembler votre Otto-MKS](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/09-assemble-otto/)
+
+---
+
+## 📱 Contrôle à distance
+
+Pour aller plus loin, il est possible de piloter le robot grâce à l'application RemoteXY.
+
+➡️ [Découvrir RemoteXY](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/10-remoteXY/)
+
+---
+
+# 🚀 Aller plus loin
+
+Les tutoriels ci-dessus permettent de construire un Otto-MKS standard.
+
+Pour découvrir les améliorations que nous avons apportées à notre propre robot, vous pouvez consulter les sections :
+
+- ⚙️ Conception et prototypage
+- 💻 Programmation
+- 🏆 Ottolympiades
+
+Vous y trouverez les modifications mécaniques et logicielles qui ont permis à **Otto-BDS** de remporter plusieurs récompenses lors des Ottolympiades.
