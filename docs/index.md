@@ -6,10 +6,9 @@
 layout: home
 nav_order: 1
 title: Accueil
-permalink: /
 ---
 
-# Bienvenue sur notre documentation
+# Bienvenue dans notre documentation
 
 Bienvenue dans la documentation du robot OTTO du groupe 11 : Sevra MVINZOU et Timothé LEJOSNE. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
