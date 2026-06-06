@@ -43,7 +43,11 @@ Le nombre de groupes participants étaient de 16 :
 <img width="361" height="521" alt="image" src="https://github.com/user-attachments/assets/34bfe49e-e8d8-4bfa-a778-35ad8c3150b5" />
 
 - OttoJägger
-- Otto-BDS
+
+# Otto-BDS
+
+<img width="402" height="435" alt="image" src="https://github.com/user-attachments/assets/85ffd4a7-ee91-47c9-8a8d-83dcdeaa6b66" />
+
 - Les Tigres
 - Minitto
 - La Grinta
