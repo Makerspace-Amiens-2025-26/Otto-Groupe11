@@ -38,7 +38,10 @@ Au fil des Ottolympiades, Otto-BDS est passé du statut d'outsider à celui de v
 
 Le nombre de groupes participants étaient de 16 :
 
-- OttoBrico
+# OttoBrico
+
+<img width="361" height="521" alt="image" src="https://github.com/user-attachments/assets/34bfe49e-e8d8-4bfa-a778-35ad8c3150b5" />
+
 - OttoJägger
 - Otto-BDS
 - Les Tigres
