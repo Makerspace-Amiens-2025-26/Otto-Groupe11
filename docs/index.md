@@ -1,3 +1,7 @@
+
+
+
+
 ---
 layout: home
 nav_order: 1
@@ -17,6 +21,7 @@ Bienvenue dans la documentation du robot OTTO du groupe 11 : Sevra MVINZOU et Ti
 
 
 
+https://github.com/user-attachments/assets/4fa6c08b-b95b-4355-a139-34d7cccdfecc
 
 ## Vidéo
 
