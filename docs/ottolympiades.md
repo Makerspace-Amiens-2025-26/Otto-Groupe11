@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 5
-title: Ottlympiades
+title: Ottolympiades
 ---
 
 # Ottolympiades
