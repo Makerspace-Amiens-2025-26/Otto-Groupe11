@@ -370,7 +370,7 @@ Malgré cela, le bilan restait largement positif.
 
 Avant le début des Ottolympiades, personne dans l'équipe n'imaginait voir Otto-BDS gagner le moindre combat.
 
-Terminer **5ᵉ sur 16 équipes** représentait déjà une très belle performance.
+Terminer **5ᵉ sur 18 équipes** représentait déjà une très belle performance.
 
 ---
 
