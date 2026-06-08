@@ -10,13 +10,13 @@ title: Ottolympiades
 ## Présentation
 
 Lors de la journée des projets, chaques groupes a participé aux Ottolympiades, un tournoi de robotique organisé au sein d’UniLaSalle Amiens, pour tester nos robots sur tous les terrains !
-nous devions adapter, modifier, bricoler notre robot OTTO-MKS pour tenter de remporter les différentes épreuves !
+Nous avons du adapter, modifier et bricoler notre robot OTTO-MKS pour tenter de remporter les différentes épreuves !
 Un socle de règles est commun à toutes les épreuves, et notre robot devait, avant de pouvoir participer, passer à un stand d’homologation pour vérifier qu’il était conforme.
 
 
 ## Règlements
 
-Vous trouverez ci-joint les liens qui vous mènerons au réglement des unilympiades afin de mieux comprendre le contexte de la compétition
+Vous trouverez ci-joint les liens qui vous mèneront au réglement des ottolympiades afin de mieux comprendre le contexte de la compétition.
 
 HOMOLOGATION :
 - [Homologation](https://makerspace-amiens.fr/otto-mks/docs/ottolympiades/homologation/)
@@ -41,7 +41,7 @@ Au fil des Ottolympiades, Otto-BDS est passé du statut d'outsider à celui de v
 
 # Les participant des Ottolympiades :
 
-Pendant la journée des projets 18 groupes se sont inscrit au Ottolympiades pour tenter de remporter les épreuves de cette compétition.
+Pendant la journée des projets 18 groupes se sont inscrits au Ottolympiades pour tenter de remporter les épreuves de cette compétition.
 Nous vous avons mis ci-dessous les noms de ces groupes ainsi que le design de leur robot.
 
 ## OttoBrico
