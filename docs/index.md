@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 1
-title: Acceuil
+title: Accueil
 ---
 
 # Bienvenue dans notre documentation
@@ -20,7 +20,7 @@ Otto-MKS est un robot humanoïde bipède open-source, adapté et fabriqué au Ma
 
 ## Vidéo
 
-Vous trouverz ci-joint une vidéo sur la présentation de notre Otto-BDS. 
+Vous trouverez ci-joint une vidéo pour présenter notre robot OTTO-BDS. 
 
 Bon visionnage !
 
